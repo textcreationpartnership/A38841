@@ -1,0 +1,2181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ex ungue leonem, or, A proof (by ten dozen) of sixty one gross epigrams designed for the year 1656</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38841</idno>
+            <idno type="STC">Wing E3558</idno>
+            <idno type="STC">ESTC R14128</idno>
+            <idno type="EEBO-CITATION">12594390</idno>
+            <idno type="OCLC">ocm 12594390</idno>
+            <idno type="VID">64027</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 316:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ex ungue leonem, or, A proof (by ten dozen) of sixty one gross epigrams designed for the year 1656</title>
+               </titleStmt>
+               <extent>[76] p.   </extent>
+               <publicationStmt>
+                  <publisher>By James Cottrel,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [76].</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Epigrams, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64027:1"/>
+            <pb facs="tcp:64027:1" rendition="simple:additions"/>
+            <p>
+               <hi>Ex ungue Leonem:</hi> OR, A PROOF (by ten Dozen) OF Sixty one Groſs EPIGRAMS Deſigned for the yeer 1656.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>Printed at <hi>London,</hi> by JAMES COTTREL. 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:64027:2"/>
+            <pb facs="tcp:64027:2"/>
+            <head>TO THE Gentlemen-READERS.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving digeſted into ſix ſcore <hi>Centuries</hi> a body of Twelve thouſand <hi>Epigrams,</hi> which, for my own recreation, I had, at ſpare hours, compoſed, ſome few yeers ago; and having put them in a dreſs ſo ſuitable to the various ſubjects whereon they treat, that much of their perfection con<g ref="char:EOLhyphen"/>ſiſting in this proportion, it did not lie in the power of my skill to diſcern betwixt the beſt and worst of them; becauſe amongst them there was not any, which (accor<g ref="char:EOLhyphen"/>ding to my opinion) did not, in ſome peculiar point or other ſurpaſs all the reſt, ſupplying what was deficient in any one thing thereof, with a precellency and advantage in another point of the ſame.</p>
+            <p>Yet, knowing that all men are not of a like minde, and that whatſoever pleaſeth ſome, will to others prove very diſtaſtful, I reſolved to retard their Publication, until I had communicated my deſigne unto ſome friends of mine, whom nevertheleſs, to put (or yet my ſelf) to
+<pb facs="tcp:64027:3"/>the labour of reading over all, I thought it unneceſſary; ſeeing by a few, one might as well judge of the remain<g ref="char:EOLhyphen"/>der, as of the liquor of a whole tun by one ſpoonful.</p>
+            <p>Therefore upon debate, what <hi>Epigrams,</hi> and how many, ſhould be made uſe of as touchſtones whereby to try he value of the reſt, (it being ſuppoſed many would think, that to pick them out with deliberation, would in a maner be but to cozen the Reader, (as ſome Ken iſh fruit-ſellers uſe to do their cuſtomers, in making them pay ſo baskets of rotten apples the whole rate, as if the ware were ſufficient) by means of the cheat of a ſmall ſcantling of choice freſh Pepins, ſtrowed on the top, which the innocent buyers rejoyce to ſee, thinking all the re<g ref="char:EOLhyphen"/>ſidue to be of a like goodneſs with that deluding parcel) it was held very expedient, that, by way of centeſima<g ref="char:EOLhyphen"/>tion, taking one onely out of every Century, the number ſhould be juſt a hundred and twenty: and alſo deemed moſt agreeable to the ingenuity of a diſcreet <hi>Author,</hi> that they ſhould be excerpted by meer chance, as fortune ſhould adjudge, without any formality of propoſed ſele<g ref="char:EOLhyphen"/>ction.</p>
+            <p>To this effect, the ſixſcore Centenaries, in ſo many diſtinct bundles, were ſpread in order on a long table, upon the which was forthwith ſet down a very handſome and large Timber-Square, made of Box-wood, of half an inch in thickneſs, wherein was inſcribed a Circle of four inches <hi>Radius,</hi> the whole circumference whereof was divided into an hundred equal parts, cyfred accor<g ref="char:EOLhyphen"/>dingly, and on the centre-ſpeck fitted with a whirl<g ref="char:EOLhyphen"/>ing Index of braſs, which, being to receive the turning
+<pb facs="tcp:64027:3"/>brangle from the hand, ſome ſixſcore ſeveral times in all, and after the manifold rapid circumvolutions of each, to point, in its cloſing reſt, at ſome one or other number, from an unite to an hundred incluſively, did, out of thoſe ſixſcore above-written parcels, direct us to theſe ſubſequent <hi>Epigrams,</hi> one after another, and in the ſame order, that they are here inſerted and digeſted.</p>
+            <p>And though I was of mine own accord engaged, to allow of the value of the remnant, by the ſtandard of what is here ſet down, I may with confidence avouch, that there are many thouſands amongst my other <hi>Epi<g ref="char:EOLhyphen"/>grams,</hi> equal to the beſt of theſe, and thoſe written on Subjects, which will be infinitely more acceptable to a ſolid and judicious <hi>Reader:</hi> nor muſt it be omitted to expreſs, that the few enſuing <hi>Epigrams</hi> have not that appearance of acumen, vivacity, grace, or luſtre in this <hi>Enchiridion,</hi> which they were projected to have in the ſtock whereof they are but the <hi>ſubdecimal</hi> por<g ref="char:EOLhyphen"/>tion.</p>
+            <p>For being, in the firſt place, divulſed, rent, and torn from their fellow-members, unto which they were with an appoſite ſymmetrie moſt methodically united, they like fingers and toes cut off from the hands and feet, (though quantified in matter of bulk as before) do not participate of that life, which by the conjunction animates the whole, and every part: and, in the next, by reaſon of the nature of the <hi>Lemma</hi>'s or ſuperſcriptions, adorned with ſignificant proper names, (other then are here ſpeci<g ref="char:EOLhyphen"/>fied) which are to be prefixed to theſe Epigrams, when re<g ref="char:EOLhyphen"/>duced to their own peculiar ſtations, they ſuffer a great
+<pb facs="tcp:64027:4"/>diminution of worth, with the more perceptibility of their eclipſed illuſtration, that, in the contexture of the afore-mentioned <hi>Lemma</hi>'s and <hi>Names,</hi> there is no leſs of art, induſtry, and invention requiſite, then for the contrivement of the <hi>Epigrams</hi> themſelves; and much more uſe in matter of application, as by a thouſand ſe<g ref="char:EOLhyphen"/>veral inſtances is eaſie to make apparent.</p>
+            <p>After this maner, when theſe ten dozen were pric<g ref="char:EOLhyphen"/>ked down and extracted, it pleaſed the aforeſaid Gentle<g ref="char:EOLhyphen"/>men to grace them (after peruſal) with their joynt ap<g ref="char:EOLhyphen"/>probation; which prompted me, for the better encou<g ref="char:EOLhyphen"/>ragement of <hi>Stationers</hi> and <hi>Printers,</hi> in their under<g ref="char:EOLhyphen"/>taking for the reſidue, to allow an <hi>Imprimatur</hi> to theſe.</p>
+            <p>This courſe ſeemed to me the more rational, that <hi>Sta<g ref="char:EOLhyphen"/>tioners,</hi> (who never eſteem of the goodneſs of Books, but by the benefit which thereby accrueth to themſelvs) having never been much accuſtomed with Tractates of this nature, and thoſe few, brought to their hands, not proving in every thing anſwerable to their expectation of gain, which always <hi>fuit, eſt, &amp; erit</hi> the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of their Profeſſion) would have ſtartled at the pre<g ref="char:EOLhyphen"/>ſentment of the immenſe Volume of a <hi>Dodecachiliad,</hi> not poſſible to be made ready for ſale, without vaſt diſ<g ref="char:EOLhyphen"/>burſments both for paper and printing: the charge whereof they would have been the more unwilling to undergo, that (the general eſtimation held of books, being the chief precurſor of their emolument) their hopes, in this unuſual undertaking, would have in the brood been ſtifled by the contempt, which this kinde
+<pb facs="tcp:64027:4"/>of Poetizing hath of late moſt undeſervedly fallen into.</p>
+            <p>At this undervaluing of what the Muſes, in their greateſt frolicks, are moſt delighted in, I oftentimes have very much admired; nor could I conceive any other reaſon for it, but that the prime Poets of this Land (ſetting before their eyes the imitation of <hi>Vir<g ref="char:EOLhyphen"/>gil, Horace, Ovid, Arioſto, Petrarcha, Bembo, Du<g ref="char:EOLhyphen"/>bartas, Ronſard, Lopedevega, Guarini,</hi> and ſuch-like, rather then of <hi>Martial,</hi> and others of his ingenious fra<g ref="char:EOLhyphen"/>ternity) have been pleaſed to couch their Fancies, (wherein, without flattery, to give them their own due, they have been and are as yet in nothing inferiour to any in the best Nations of the world) and to digest them in any other kinde of Poetry rather, then that of the <hi>Epigrammatical</hi> ſtrain.</p>
+            <p>But what it might be which moved them ſo to do, who had abilities for all maner of Poems, is onely known unto thimſelves: for truely I cannot imagine why, to <hi>Engliſh</hi> Poets, that maner of Verſifying ſhould not have been moſt agreeable, which is most conſonant with the propriety of the <hi>Engliſh</hi> Idiome; and that (in my opinion) is the <hi>Epigram.</hi>
+            </p>
+            <p>As for the precellencie, which, in the <hi>Heroick</hi> vein, the <hi>Greek</hi> and <hi>Latine</hi> have above the <hi>Engliſh,</hi> and all our other Vernaculary Languages, is eaſily underſtood by thoſe, that are well acquainted with the majeſtick pace of the <hi>Dactyl</hi> and <hi>Spondae</hi> feet, which is of a much more graceful and lofty trip, then can be perform<g ref="char:EOLhyphen"/>ed by our lame <hi>Iambos.</hi>
+            </p>
+            <pb facs="tcp:64027:5"/>
+            <p>Another ſort of gallant Poeſie there is, called the <hi>Lyrick,</hi> wherein are comprehended <hi>Sonnets, Madri<g ref="char:EOLhyphen"/>gals, Hymns, Ballets, Odes,</hi> (whether <hi>amorous, ru<g ref="char:EOLhyphen"/>ral, military, ſympoſiaſtick,</hi> or what you will) <hi>Epi<g ref="char:EOLhyphen"/>thalamions</hi> to Nuptials, <hi>Epinicions</hi> for Victories, <hi>Ge<g ref="char:EOLhyphen"/>nethliacks</hi> on Nativities, <hi>Congratulatories,</hi> and ſuch-like copies of Verſes, which cannot be expreſſed by any known Language in the world with more advantage, then in the <hi>Italian:</hi> the whole words whereof, (ſome few <hi>ſyncategorematical</hi> monoſyllables onely excepted, and thoſe not above ſix in all) moſt ſmoothely termi<g ref="char:EOLhyphen"/>nating in vowels, and conſiſting of ſyllables (by reaſon of their paucity of conſonants) exceeding neatly mate<g ref="char:EOLhyphen"/>riated, do afford a <hi>Phraſeologie</hi> ſo admirably fluent, that the very ſound more then moſt ſweetly dropping in the ear, bedews (to the inexpreſſible raviſhment of the hearers) the nimble ſpirits of the brain, with Nectar and Honey <hi>delicioſiſſimamente.</hi>
+            </p>
+            <p>Yet in matter of <hi>Elegies, Threnodies,</hi> or any long-breathed Poem on luctiferous ſubjects, the <hi>Spaniſh</hi> and <hi>French</hi> Tongues may come in competition with the best.</p>
+            <p>The latitude of <hi>Poeſie</hi> extending yet a great deal further, there is a ſpecies thereof called the <hi>Dramma<g ref="char:EOLhyphen"/>tick,</hi> which includeth <hi>Tragedies, Comedies, Inter<g ref="char:EOLhyphen"/>ludes, Masks, Entertainments, Dialogues, Satyrs, Frolicks, Georgicks, Paſtorals, Piſcatories, Nauti<g ref="char:EOLhyphen"/>cals,</hi> (which laſt three paſs commonly by the name of <hi>Eclogues</hi>) and other ſuch-like, in all which to the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> I would allow a comparative, but no ſuperlative degree.</p>
+            <pb facs="tcp:64027:5"/>
+            <p>For that, and no leſs in ſo far as concerns the <hi>Engliſh,</hi> I would reſerve to the onely <hi>Epigram,</hi> even in its ut<g ref="char:EOLhyphen"/>most extent, as it comprehendeth Epitaphs, Characters, Emblemes, Devices, Motto's, Hieroglyphicks, Defini<g ref="char:EOLhyphen"/>tions, Aphoriſms, Diſtributions, Paradoxes, Rebus, Problemes; <hi>Charientilogetick Quirks,</hi> in facetious Encounters; <hi>Gnomologetick,</hi> in Sentences; <hi>Parae<g ref="char:EOLhyphen"/>mial,</hi> in Adages; <hi>Ethological,</hi> in Moral Precepts; <hi>Epiſtemonical,</hi> in Sciences; <hi>Technical,</hi> in Liberal Arts; <hi>Mechanologetick,</hi> in Manual Trades; <hi>Caba<g ref="char:EOLhyphen"/>liſtick,</hi> in Myſterious Speculations; <hi>Philiſtoretick,</hi> in Narratives; <hi>Palaeſtrick,</hi> in Field-exerciſes; <hi>Umbra<g ref="char:EOLhyphen"/>tilary,</hi> in Houſe-games; <hi>Paidathyreutick,</hi> in Childiſh Sports; <hi>Androgynathletical,</hi> in Amourets betwixt man and woman: <hi>Polemick Knacks,</hi> in the Milice; <hi>Politick,</hi> in the State; <hi>Mythological,</hi> in all maner of Fables; <hi>Aenigmatick,</hi> in Riddles; <hi>Arithmologetick,</hi> in Numbers; <hi>Biographical,</hi> in the inſtitution of a mans life; <hi>Zoopaedeutick,</hi> in obſerving for our in<g ref="char:EOLhyphen"/>ſtruction the actions of meer Animals: <hi>Rhetorical Whimſeys,</hi> whether Ironical for Similitudes, or Anti<g ref="char:EOLhyphen"/>pophoretick for Diſcrepances: <hi>Epitatick Hyperboles,</hi> in Exuperancie, or <hi>Hypocoriſtick</hi> in Extenuation; with all the other Tropes and Figures, not omitting the <hi>Pathologie</hi> thereto ſubſervient; ingenious Fallacies <hi>in &amp; extra dictionem;</hi> Encomiaſticks, Vituperatories, Scoffs, Sarcaſms, Witty Gybes, Jeers, Jeſts, Tales, Quibbles, Clinches, Quips, Bulls, Anagrams, Chrono<g ref="char:EOLhyphen"/>grams, Logogriphs, Acroſticks, Teleuticks, Palindro<g ref="char:EOLhyphen"/>mies, Retrogrades, Antiſtrophs, Criticiſms, Dipno<g ref="char:EOLhyphen"/>ſophiſms.
+<pb facs="tcp:64027:6"/>Technopaegnions, and, in a word, all maner of ſuccinct and conciſe Poetry, on what ſubject ſoever, purely fancied, and in a quaint diction apparelled: for if in either of thoſe qualifications it fail, though it may poſſibly merit the ſtile of an <hi>Epigram,</hi> yet will it always be with the addition of a ſcurvie, paltry, and bad one.</p>
+            <p>The <hi>Epigram</hi> therefore, I again avouch, is that which of all maner of Poetizing doth beſt befit the Syſteme of the <hi>Engliſh</hi> Language; becauſe it is that (I mean, the good one) which, of all Poems, requireth the richeſt and moſt pregnant conceit, a ſublime and piercing acu<g ref="char:EOLhyphen"/>men in the cloſe, to be ſprucely worded, and in few terms; which laſt clauſe (to wit, ſhortneſs) being in a maner eſſential to the <hi>Epigram,</hi> as circularity (or more properly, orbicularity) to the Heavens, makes that kind of Poeſie, by reaſon of the <hi>Polymonoſyllabicalogies</hi> of the <hi>Engliſh,</hi> more convenient and ſutable to that <hi>I<g ref="char:EOLhyphen"/>diome,</hi> then to any of the above-named Languages.</p>
+            <p>Truely, as for compoſing Poetical Treatiſes upon <hi>Didaſcalary</hi> ſubjects, as did <hi>Lucretius; Epiſtolary,</hi> after the maner of <hi>Ovid; Hiſtorical,</hi> like <hi>Lucan;</hi> or any other ſuch long-winded Tractates upon ſerious pur<g ref="char:EOLhyphen"/>poſes, whatever the ſubjected matter be, Divine or Hu<g ref="char:EOLhyphen"/>mane, it will not, in my opinion (ſtill <hi>ſalva doctiori<g ref="char:EOLhyphen"/>bus reverentia</hi>) reliſh neer ſo well in Verſe as Proſe; which, ſet afoot once by a dextrous Writer, cannot be (with any apparence of truth) ſaid to walk on crutches, more then <hi>Verſes</hi> do: for it having anſwerable to the <hi>metrical</hi> feet in the learned <hi>Tongues,</hi> and parity of ſyllables tipped with ſemblable terminations (vulgarly
+<pb facs="tcp:64027:6"/>called Rhymes) in the <hi>vernaculary,</hi> another kinde of feet, every whit as proportionable, ſwift, and vigorous; on which being ſet forward an <hi>Iſocoly</hi> of members, clo<g ref="char:EOLhyphen"/>ſing in correſpondent deſinences without <hi>Homoiotely;</hi> the diſcourſed or treated-on ſubject, will, on ſuch lively props, run along the field of the Period, ſtop, change, turn, flie out again, and, with a moſt ſprightly motion, full of alacrity, by excitating Paſſion, and perſwading Reaſon, forcibly ſeize, at laſt, upon all the both upper and under faculties of the ſoul, and ſhut them up as cloſe priſoners in the final cloſe of the expreſſion.</p>
+            <p>Hereby as I muſt acknowledge my ſelf obliged, in the parallel of Proſe with Verſe, to aſcribe the pre-emi<g ref="char:EOLhyphen"/>nence unto Proſe, even in the <hi>Engliſh,</hi> as well as in all other Languages: ſo, on the other part, when one kind of Poem comes in competition with another, and that it ſhall be asked me, which in the <hi>Engliſh</hi> would prove moſt graceful, my anſwer truely will be, for the reaſon above recited, that what rank ſoever the <hi>Epigram</hi> keep in other <hi>Tongues,</hi> it ſhould above all other Poetry obtain the ſuperiority in the <hi>Engliſh.</hi>
+            </p>
+            <p>This in very deed proved no mean motive to me, when my <hi>Genius</hi> led me in the vein of Poetizing to any favourable opportunity, of embracing a diverſion with the ſacred Quire of <hi>Parnaſſus,</hi> to ſet aſide all o<g ref="char:EOLhyphen"/>ther maner of Poems, and lay hold on the Epigram: but that which incontroverſibly may be called the main cauſe of that my choice, was my unavoidable want of leaſure, to ply the Muſes in any long purpoſe of great deliberation. For although my minde had been never
+<pb facs="tcp:64027:7"/>ſo much bent upon the proſecuting of another ſtrain, and that the <hi>Engliſh</hi> diction had been able to furniſh me with advantages beyond any other <hi>Speech</hi> for ſuch a task: yet for having been always ſo unfortunately in<g ref="char:EOLhyphen"/>volved, either in publike intereſts, private difficulties, buſineſſes of friends, diſturbances of foes, or other ſuch<g ref="char:EOLhyphen"/>like entanglements, oftentimes with an accumulative impetuouſneſs thronging upon me all together at once; that I do not remember, the ſun ever ſhined that day, (ſince the time elapſed of my ſubferulary age) where<g ref="char:EOLhyphen"/>in I was maſter of the ſpace of two whole hours, which I might be ſure to call mine own, without the urgencie of ſome preſſing interruption: I could not, with pre<g ref="char:EOLhyphen"/>text of reaſon, or ſhew of underſtanding the proportion of the meaſure of motion, to the actions thereupon de<g ref="char:EOLhyphen"/>pending, have adventured to launch forth my little Skiff of Invention, Poetically rigged, into the large and profound Ocean of <hi>Polyſtichetick</hi> undertakings; or yet ſpun out, with any deſerved praiſe, the thread of thoſe long-breath'd Poems, which <hi>ſeceſſum &amp; otia quaetunt.</hi>
+            </p>
+            <p>Thus did the <hi>Epigram</hi> become my darling-Poema<g ref="char:EOLhyphen"/>tion; becauſe I was never thereby withdrawn from doing any thing elſe: proving oftentimes the more ſuc<g ref="char:EOLhyphen"/>ceſsful in it, the more I was <hi>in aliud agendo occupa<g ref="char:EOLhyphen"/>tus;</hi> and the more numerous, the leſs ſolitary I was. For very often in a day, wherein I have ridden four and twenty miles, have I compoſed juſt ſo many <hi>Epigrams,</hi> without hinderance to my partaking of any occurring diſcourſe with my fellow-travellers: and as oft, when
+<pb facs="tcp:64027:7"/>a grievous and deplorable accident, one or more (ſqua<g ref="char:EOLhyphen"/>drons whereof, in theſe, calamitous times, have been too frequently obvious to the beſt of the Land) would ob<g ref="char:EOLhyphen"/>truſively preſs in upon me, at any <hi>qua data porta</hi> of the brain, ſome curious <hi>Epigrammatical</hi> ſubjects would on a ſudden be introduced by thoſe emiſſary ſpirits, who, from the <hi>glandulary</hi> fort, ſeated in the middle of the <hi>Epicranidian</hi> citadel, were commiſſionated to flie out, and make excurſion upon the diſturbers of their inte<g ref="char:EOLhyphen"/>ſtine tranquillity; to the end that by the additional ſtrength of ſuch faithful and truſty confderates, they might, with the greater eaſe, keep off their dull and lamentable adverſaries, from taking poſſeſſion of any room, or quarter in the aforeſaid <hi>multicellulary</hi> Gari<g ref="char:EOLhyphen"/>ſon: and for the better encouragement of thoſe <hi>Epi<g ref="char:EOLhyphen"/>grammatical</hi> Auxiliaries, ſome of the Trained band, ſpirits of the ſouldiery of <hi>Terpſichore,</hi> would make it their employment to trim and trick them up with <hi>a la mode</hi> fancies, even to the very <hi>Codpiece</hi> and <hi>Placket,</hi> procuring thereby their admiſſion unto a free quarter, through the favour of the Commander in chief, who, to ſhun deeper inconveniencies, was pleaſed to give way thereto: for although at firſt, theſe light aërial ſubjects ſeemed, in regard of thoſe other ponderous objects of a triſt &amp; plangorous conſideration, to be but as a <hi>Zannie,</hi> compared to a <hi>buskin'd</hi> Actor on the Stage; yet ſeeing a heavie, doleful, and diſcontented wretch, ſeldom ob<g ref="char:EOLhyphen"/>taineth that reception, which is allowed to a jovial, plea<g ref="char:EOLhyphen"/>ſing guest, little <hi>Hilarulo Gringalet</hi> for his mirth was often entertained with welcome, when for his moroſity,
+<pb facs="tcp:64027:8"/>and ſullen melancholy, <hi>Don Adolentado de Peſad<g ref="char:EOLhyphen"/>umbre Cuydoſo,</hi> was for all his gravity very juſtly re<g ref="char:EOLhyphen"/>jected.</p>
+            <p>I will not deny, but that I found my vein to operate the more eaſily in theſe <hi>Epigrammatographical</hi> Exer<g ref="char:EOLhyphen"/>citations, that, according to my own faſhion, in all other Diſciplines and Faculties, (as well as that of Poetry) of preferring Reaſon to Teſtimony, and Truth to <hi>Plato,</hi> and all his <hi>diſciples,</hi> I was ſo averſe from ſetting be<g ref="char:EOLhyphen"/>fore mine eyes the imitation of any, that contrary to the commonly-received cuſtom of terminating every verſe with a maſculine Rhyme, I <hi>chaped</hi> my lines now and then with female deſinences, and <hi>ſdrucciola</hi>'s, which Last the Latiniſts call <hi>Dactyls;</hi> it not ſeeming very reaſonable unto me, that becauſe of the multiplicity of <hi>monoſyllabical</hi> and <hi>oxytonal</hi> words in the <hi>Engliſh,</hi> we ſhould not <hi>Rhythmically</hi> alſo make uſe of the <hi>pa<g ref="char:EOLhyphen"/>roxytonals,</hi> and <hi>proparoxytonals,</hi> whereof there is likewiſe great ſtore: but unneceſſarily defrand our ſelves of the benefit of many thouſands of right im<g ref="char:EOLhyphen"/>portant <hi>teleuticks,</hi> thereby diſſenting from the approved practice of all other knowing Nations, and laying of a new <hi>diviſam ab orbe</hi> foundation of our own, as if we were ambitious to bring our Roeſie to an elevation <hi>Antarctick</hi> to the <hi>Italians,</hi> which is incapable of any other Rhyme, but of a <hi>female</hi> or <hi>Sdrucciola;</hi> although the <hi>Tuſcan</hi> Verſificators, by theſe two alone, without the help of the <hi>male,</hi> brag that they have brought Poeſie in that Language to the greateſt height it did ever reach unto in any Tongue whatſoever.</p>
+            <pb facs="tcp:64027:8"/>
+            <p>Nevertheleſs it is my opinion, which notwithſtanding I will not obtrude upon the tender credulities of any, otherwiſe then they ſhall finde good reaſon for their ad<g ref="char:EOLhyphen"/>herence thereto, that theſe <hi>Italianized</hi> Rhymes are with us to be ſerved in with ſuch animadvertencie, and diſcretion, that to no <hi>Heroick</hi> Poem in the <hi>Engliſh</hi> they ought to be admitted, nor yet to the <hi>Elegie,</hi> and, in a word, to no kinde of Verſes to be ſet forth, either in a <hi>majeſtick</hi> or <hi>mourning</hi> gravity: albeit the <hi>French,</hi> even in their <hi>Alexandrian</hi> Lines, make it one of the precepts of their Poetick art, to interlace the <hi>female</hi> alternatively with the <hi>maſculine</hi> Rhyme.</p>
+            <p>This liberty which I have always been pleaſed to aſ<g ref="char:EOLhyphen"/>ſume unto my ſelf, of terminating my lines promiſcu<g ref="char:EOLhyphen"/>ouſly with what <hi>Rhythmical</hi> deſinences I thought fit<g ref="char:EOLhyphen"/>ting, did hurry my vein into ſuch a facility of <hi>Epi<g ref="char:EOLhyphen"/>grammatizing,</hi> that what number of <hi>Epigrams</hi> I have compoſed, is totally unto my ſelf unknown; most part having been imbezeled, plundered, and deſtroyed, and a great many others dictated from my own mouth, whereof I never had any copie: yet ſome twelve thou<g ref="char:EOLhyphen"/>ſand having providentially eſcaped the rage of the vi<g ref="char:EOLhyphen"/>ctorious Enemy, and villanous unworthy hands of the baſe unmerciful Sequeſtrator; I make account (<hi>Deo favente</hi>) out of that groſs, to publiſh, by the firſt of <hi>Ja<g ref="char:EOLhyphen"/>nuary 1656.</hi> a Body of Three hundred ſixty and ſix ſeveral Books, which, conſiſting each of Four and twen<g ref="char:EOLhyphen"/>ty <hi>Epigrams,</hi> are, in their wholes and parts, to repreſent the <hi>days</hi> and <hi>hours</hi> of that <hi>year,</hi> to the number of Eight thouſand ſeven hundred eighty and four: and
+<pb facs="tcp:64027:9"/>thoſe ſo aptly adjuſted with <hi>Lemma</hi>'s, and other orna<g ref="char:EOLhyphen"/>ments thereto requiſite, that, out of <hi>Greek, Latine, Spaniſh,</hi> and <hi>Italian,</hi> the four fitteſt of all known <hi>Lan<g ref="char:EOLhyphen"/>guages,</hi> for <hi>proper</hi> and <hi>Gentile</hi> denominations, have been by me extracted neer upon Seven thouſand names, all of them in the aforeſaid Volume, ſignificant of the ſubject of the Epigram to which they are reſpectively prefixed and applied.</p>
+            <p>I verily believe it will be affirmed by many, that it exceeds the ſphere of my ability, to perform what I ſpeak of; and that, in a maner, I do but promiſe impoſſibili<g ref="char:EOLhyphen"/>ties.</p>
+            <p>
+               <hi>Good Gentlemen,</hi> how ſhall I in this caſe con<g ref="char:EOLhyphen"/>vince theſe Incredulists? To offer them the uſual way of reaſoning, is to ſmall purpoſe: for if they be ac<g ref="char:EOLhyphen"/>quainted with me, they know I have already performed greater tasks, and on harder matters: and if they never ſaw me, nor heard of me, they being but blinde judges of my ſufficiencie, no man is bound to give any credit to their aſſertions.</p>
+            <p>Therefore by a new way of mine own, to reduce theſe <hi>Nullifidians</hi> to ſome kinde of conformity, and confute their irregular Poſitions with a Syllogiſtick argumentation, I will make uſe of this <hi>Aſſumption</hi> and <hi>Concluſion</hi> in <hi>Darii:</hi>
+            </p>
+            <p>I have a minde to keep my head on my ſhoul<g ref="char:EOLhyphen"/>ders:</p>
+            <p>
+               <hi>Ergo,</hi> I will publiſh theſe Three hundred ſixty and ſix Books, by the firſt of <hi>January,</hi> 1656.</p>
+            <pb facs="tcp:64027:9"/>
+            <p>Now although the <hi>Dictum de omni,</hi> out of which this <hi>minor</hi> (to bring the mood to <hi>Darii</hi>) is ſubſumed, be altogether unreaſonable; yet if any undertakers will reſolvedly undergo the condition of performing the aforeſaid task, or loſing their life, it will in that caſe frame an <hi>hypothetical</hi> Syllogiſm, reducible to the ſame <hi>mood,</hi> no <hi>propoſition</hi> whereof can be denied.</p>
+            <p>This engagement will I take, and enter ſo far into it, That if <hi>his Highneſs</hi> the <hi>Lord Protector</hi> will be pleaſed to lay a Wager againſt me of <hi>20000 l.</hi> Engliſh money, that, on the firſt of <hi>January 1656.</hi> I ſhall not have publiſhed theſe Three hundred ſixty and ſix books, as is aforeſaid; I ſhall be content, for aſſurance on my part, in matter of their publication, to pawn all I have above the ſhoulders, as a pledge by me valued at a far higher rate, then the above-written ſum, and which I ſhall ſubſcribe my ſelf well pleaſed to loſe, in caſe of non-performance: provided violent obſtructions be withheld from me, and that I may enjoy my own ſpirits with ſo much freedom, as is needful for the accompliſh<g ref="char:EOLhyphen"/>ment of ſuch an undertaking.</p>
+            <p>If my <hi>Lord</hi> will not deſcend ſo lowe, as to hearken to this overture, Then my humble deſire is, that I may have my liberty granted to me, together with the enjoy<g ref="char:EOLhyphen"/>ment of my own means, and the removal of the Gariſon out of my houſe; and I ſhall perform it howſoever, up<g ref="char:EOLhyphen"/>on the pein above ſpecified.</p>
+            <p>Now if none of theſe demands can be obtained, and that it be though expedient, I ſhall ſtill continue (as I have done theſe whole three yeers paſt) totally deprived
+<pb facs="tcp:64027:10"/>of the poſſeſsion of any thing (whether of real or perſo<g ref="char:EOLhyphen"/>nal eſtate) that is mine, nothing allowed me anywhere in compenſation thereof, nor yet for my own ſubſiſtence, and nevertheleſs ſaid open, and expoſed without prote<g ref="char:EOLhyphen"/>ction, to the rigour and higheſt ſeverity of the Laws of this Iſle, and that at the ſuit and inſtance of the most injurious, unconſcionable, mercileſs, and implacable men, that ever the earth produced; I muſt needs, in that caſe ſay, That ſo much may be ſaid thereto, that I will ſay nothing.</p>
+            <p>Therefore, <hi>Gentlemen-Readers,</hi> farewel; and wiſh well to him, who, had he not been debarred from the fruition of his own, would before this time have preſented you with that, which you would have deſer<g ref="char:EOLhyphen"/>vedly valued at ten times a higher rate, then all the de<g ref="char:EOLhyphen"/>mands he ever till this hour hath made, did amount to, and likewiſe at this inſtant ſubſcribed himſelf other<g ref="char:EOLhyphen"/>wiſe then</p>
+            <closer>
+               <signed>Anonymos.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:64027:10"/>
+            <head>Ex ungue Leonem.</head>
+            <div type="poem">
+               <head>To the Elixir of Beauty, patern of Goodneſs, quin<g ref="char:EOLhyphen"/>teſſence of Worth, abſtrect of all Compleatneſs, Paragon of her Sex, Maſter-piece of Nature, Proto-type of Perfection, and the ſublimely ac<g ref="char:EOLhyphen"/>ceptable object of Comentment in all the fe<g ref="char:EOLhyphen"/>male kinde; the moſt excellent, matchleſs, in<g ref="char:EOLhyphen"/>comparable, tranſcendent, Angelick, divinely accompliſhed, and never too-much-to-be-prai<g ref="char:EOLhyphen"/>ſed <hi>Aura.</hi>
+               </head>
+               <l>YOu are the ſetled <hi>ſubject</hi> of my <hi>love;</hi>
+               </l>
+               <l>The <hi>love</hi> of heav'n, &amp; <hi>heav'n,</hi> in whoſe orbs move</l>
+               <l>My choice delights: <hi>delight</hi> of all my chief</l>
+               <l>Aetherial ſpirits: <hi>ſpirit</hi> of my life:</l>
+               <l>
+                  <hi>Life</hi> of my ſoul: and <hi>ſoul</hi> of my deſires:</l>
+               <l>
+                  <hi>Deſire</hi> of that acquaintance, which admires</l>
+               <l>And worſhips you: th' <hi>acquaintance</hi> of the beſt:</l>
+               <l>The <hi>beſt</hi> of women; and a <hi>woman</hi> grac'd</l>
+               <l>With beauty: <hi>beauty,</hi> which doth far ſurpaſs</l>
+               <l>What is moſt glorious on this earthly maſs:</l>
+               <pb facs="tcp:64027:11"/>
+               <l>
+                  <hi>Maſs</hi> of ſupreme perfection; and <hi>perfection</hi>
+               </l>
+               <l>Of Art and Nature; thus much my Affection</l>
+               <l>Adventures in your praiſes to diſcloſe,</l>
+               <l>By theſe gradations that you may compoſe</l>
+               <l>Your ſelf in ev'ry action, thought, diſcourſe,</l>
+               <l>To be all <hi>mine,</hi> as I am wholly <hi>yours.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The reaſon why women ſhould go no longer bare<g ref="char:EOLhyphen"/>headed after they be married.</head>
+               <l>THe husband is the <hi>head,</hi> as ſoon's h' unlocks</l>
+               <l>The virgin-door of his eſpouſed mate:</l>
+               <l>In ſigne whereof, what firſt was bare ſhe <hi>cloaks,</hi>
+               </l>
+               <l>And for his low <hi>diſcov'ry</hi> veils her pate.</l>
+               <l>Her <hi>head</hi> ſhe <hi>covers,</hi> thus to gratifie him:</l>
+               <l>For he's not <hi>head,</hi> till ſhe be <hi>cover</hi>'d by him.</l>
+            </div>
+            <div type="poem">
+               <head>The diſcrepance betwixt <hi>Eve,</hi> and other women.</head>
+               <l>
+                  <hi>EVe</hi> finned firſt moſt grievouſly, and then</l>
+               <l>that ſhe was naked it did her diſpleaſe:</l>
+               <l>Though women now lie naked before men,</l>
+               <l>that they may ſin it out with greater eaſe:</l>
+               <l>
+                  <hi>Eve</hi> in her innocence was naked ſtill;</l>
+               <l>But in their nakedneſs <hi>They</hi> work moſt ill.</l>
+            </div>
+            <div type="poem">
+               <head>Of a certain very jealous man.</head>
+               <l>JEalous <hi>Gravoſo,</hi> ſleeping with his wife,</l>
+               <l>Whoſe carriage made him weary of his life,</l>
+               <pb facs="tcp:64027:11"/>
+               <l>Dream'd that there did, for curing of his evil,</l>
+               <l>Appear a joyful object to 'm, <hi>The devil:</hi>
+               </l>
+               <l>From whom, he thought, he got a <hi>ring</hi> ſo fit</l>
+               <l>For his deſigne, that ſo long 's he with it</l>
+               <l>Should his mid <hi>finger</hi> keep invironed,</l>
+               <l>He would be ſure not to be cuckolded.</l>
+               <l>His fancie was ſo tickled with delight</l>
+               <l>At ſuch a gift, that he awaked ſtreight:</l>
+               <l>But when he found his ſaid mid finger in</l>
+               <l>The orifice of his wifes lower Gin,</l>
+               <l>Without <hi>Artemidorus</hi> art, he knew</l>
+               <l>The dream to be in either part moſt true:</l>
+               <l>Both that it was the <hi>dev'l</hi> gave him that <hi>Ring,</hi>
+               </l>
+               <l>And that his <hi>finger</hi> would bar Cuckolding.</l>
+            </div>
+            <div type="poem">
+               <head>How blinde <hi>Adraces</hi> was ſerv'd by his wanton wife.</head>
+               <l>BLinde <hi>Adraces</hi> chid with his yong wife <hi>Kate,</hi>
+               </l>
+               <l>That Candles on the table were not ſet:</l>
+               <l>For he believ'd it was dark night, altho</l>
+               <l>The Sun to 's ſetting had an hour to go.</l>
+               <l>You need not care <hi>(quoth Kate)</hi> for lacking light,</l>
+               <l>You cannot well diſcern 'twixt dark and bright.</l>
+               <l>That's true <hi>(quoth he)</hi> yet is it fit I crave</l>
+               <l>That for my houſe, which all my neighbours have.</l>
+               <l>Well then, Sweet-heart <hi>(quoth ſhe)</hi> I hold it beſt</l>
+               <l>You be obey'd. With this, above the waſt</l>
+               <l>She tucks up all her cloathes, and, to the view</l>
+               <l>Of thoſe could ſee, a naked <hi>quoniam</hi> ſhew:</l>
+               <pb facs="tcp:64027:12"/>
+               <l>Then ſaid, <hi>(Sweet-heart)</hi> are you not now content?</l>
+               <l>He, thinking lights were brought as he had meant,</l>
+               <l>Said, <hi>(Wife)</hi> that is fit for a Princes eye,</l>
+               <l>And worthy to be ſeen, who ere come by.</l>
+            </div>
+            <div type="poem">
+               <head>How one <hi>Dick</hi> did cuckold himſelf.</head>
+               <l>
+                  <hi>DIck</hi> be'ng come late from a long journey, did</l>
+               <l>Meet with his wife by meer chance in a hid</l>
+               <l>And narrow corner of his country-houſe,</l>
+               <l>Where he gave her the intercrural douſe,</l>
+               <l>Without ſo much as <hi>mum,</hi> or any word,</l>
+               <l>Either before, or whilſt he was aboord:</l>
+               <l>But when the feat was done, and that his ſpeech,</l>
+               <l>Together with the light of candles, which</l>
+               <l>Were then brought in, diſcovered the trick</l>
+               <l>Thus done unto her by her husband <hi>Dick;</hi>
+               </l>
+               <l>I vow, had I known it was you, <hi>(ſhe ſaid)</hi>
+               </l>
+               <l>Till we had been abed, you ſhould have ſtaid.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Moll</hi>'s skll in Grammar.</head>
+               <l>
+                  <hi>MOll</hi> in the Common firſt of two or three</l>
+               <l>Began her <hi>Grammar;</hi> then the love <hi>virotu<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi>
+               </l>
+               <l>Mov'd her to ſtudy night and day, till ſhe</l>
+               <l>Had by continual practice declin'd <hi>horum:</hi>
+               </l>
+               <l>She liketh thoſe <hi>declenſions</hi> for the vowel,</l>
+               <l>Wherein the <hi>I</hi> the <hi>Genitive</hi> befits,</l>
+               <l>And <hi>Atticizing</hi> 't in the <hi>number</hi> dual,</l>
+               <l>The female with the male-kinde ſhe unites:</l>
+               <pb facs="tcp:64027:12"/>
+               <l>Or rather, all her <hi>Concords</hi> are betwixt</l>
+               <l>Two divers <hi>geners,</hi> where the Maſculine</l>
+               <l>Is <hi>ſubſtantively dative,</hi> and ſo fixt</l>
+               <l>Within the <hi>mobil</hi> of a <hi>feminine,</hi>
+               </l>
+               <l>Whoſe <hi>Caſe</hi> is <hi>adjectively ablative;</hi>
+               </l>
+               <l>That if ſhe, by a jovial <hi>Interjection,</hi>
+               </l>
+               <l>Further'd with a <hi>Conjunction cop'lative,</hi>
+               </l>
+               <l>And inward <hi>Prepoſition,</hi> ſuch perfection</l>
+               <l>Give to her <hi>Syntax,</hi> that to him that doth</l>
+               <l>In the <hi>firſt perſon</hi> court her, ſhe apply</l>
+               <l>The <hi>ſecond</hi> in a kinde will make them both</l>
+               <l>
+                  <hi>Active,</hi> and <hi>paſſive, participially:</hi>
+               </l>
+               <l>Then in theſe her <hi>Grammatications,</hi> ſhe</l>
+               <l>Each part to other will adapt ſo finely,</l>
+               <l>That how <hi>frequentative</hi> ſoe'er he be:</l>
+               <l>She'll to his <hi>Gerunds</hi> bear her ſelf <hi>ſupinely.</hi>
+               </l>
+               <l>Thus doth ſhe prove <hi>ſuperlative,</hi> and <hi>more</hi>
+               </l>
+               <l>Then <hi>perfect,</hi> in both <hi>Nouns,</hi> and <hi>Verbs,</hi> and all</l>
+               <l>The other parts of <hi>Speech,</hi> required for</l>
+               <l>
+                  <hi>Cupid</hi>'s expreſſion, as <hi>Grammatical.</hi>
+               </l>
+               <l>But though there be no woman that ſurpaſſeth</l>
+               <l>Her skill in <hi>Grammar,</hi> yet at all occaſions,</l>
+               <l>Her <hi>flexions</hi> ſhe ſo <hi>genitively</hi> caſeth,</l>
+               <l>And <hi>ſubjunctively</hi> moods her <hi>Conjugations;</hi>
+               </l>
+               <l>That all ſhe knows therein, is but a plain</l>
+               <l>
+                  <hi>Conſtruction</hi> of her luſt with that of men.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Quintin</hi> the Bankrupt.</head>
+               <l>
+                  <hi>QUin</hi> how is drown'd by his ſiniſter fate:</l>
+               <l>What, in ſalt or freſh waters? no, in <hi>debt.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:13"/>
+               <head>How one <hi>Ben,</hi> with his Miſtreſs <hi>Pen,</hi> practiſed their skill in Alchymie.</head>
+               <l>THey by aſpiring both to the perfection</l>
+               <l>Of the <hi>Elixir,</hi> did together enter</l>
+               <l>Upon the ſev'ral ſubjects of <hi>Projection,</hi>
+               </l>
+               <l>B' a <hi>mixture</hi> natural and elementar':</l>
+               <l>Whilſt in material things they <hi>co'perated,</hi>
+               </l>
+               <l>T' <hi>incorporate</hi> their <hi>Sindon</hi> by <hi>ignition,</hi>
+               </l>
+               <l>She th'unrefined ſubſtance <hi>ſublimated,</hi>
+               </l>
+               <l>And crown'd the <hi>Magiſtecum</hi> b' <hi>imbibition;</hi>
+               </l>
+               <l>Till the whole vertue of the <hi>ſtone</hi> being tried,</l>
+               <l>They with the <hi>touch</hi> thereof were ſatisfied.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Nat</hi> and his wife.</head>
+               <l>NOw give me leave <hi>(quoth Nat to's wife)</hi> to do it.</l>
+               <l>I will <hi>(quoth ſhe)</hi> my next ſuit be'ng allowed.</l>
+               <l>Content <hi>(ſays he)</hi> with this they fig'd it; then</l>
+               <l>Did ſhe wiſh him to do it o'er agen.</l>
+            </div>
+            <div type="poem">
+               <head>Of a young Widow, and a pretty Widower.</head>
+               <l>A Rich fair <hi>Widow,</hi> as ſhe wept for her</l>
+               <l>Deceaſed husband; a young <hi>Widower</hi>
+               </l>
+               <l>Told, that her caſe was <hi>(ah!)</hi> then his much better;</l>
+               <l>For <hi>(ah!)</hi> h'had kill'd his wife with his child getter.</l>
+               <l>Oh kill me then <hi>(quoth ſhe)</hi> with that ſame <hi>blade;</hi>
+               </l>
+               <l>For <hi>(oh!)</hi> I would be dead, I would be dead.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:13"/>
+               <head>
+                  <hi>Of</hi> Meads, <hi>and</hi> Maids.</head>
+               <l>ALl <hi>Laſſes</hi> love <hi>green gowns;</hi> and ſee'ng that the</l>
+               <l>Beſt <hi>graſs</hi> of any we in <hi>Meadows</hi> ſee,</l>
+               <l>Therefore is it, that from the word of <hi>Meads</hi>
+               </l>
+               <l>Virgins by men are fitly termed <hi>Maids.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Morgan</hi> the Fidler, and his Sweet-heart <hi>Kate.</hi>
+               </head>
+               <l>
+                  <hi>MOrgan</hi> made in his progreſs and retreat,</l>
+               <l>Such muſick with his <hi>Kyt-ſtick</hi> on dame <hi>Kate,</hi>
+               </l>
+               <l>That it being like the Pitch-pipe of an Organ,</l>
+               <l>
+                  <hi>Kate</hi> was well pleas'd therewith, &amp; ſo was <hi>Morgan.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>To <hi>Procaculo,</hi> a ſuiter to one <hi>Doll.</hi>
+               </head>
+               <l>THough <hi>Doll</hi> be chaſt, deſpair not; ſhe's a fair one:</l>
+               <l>And though you know her well, yet <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:</l>
+            </div>
+            <div type="poem">
+               <head>Of a handſome, and well-bred Girl, without a Portion.</head>
+               <l>I Put the caſe ſhe be as ſtrait 's a Plain,</l>
+               <l>As white 's the Lily, and as ſweet as Honey;</l>
+               <l>Yet ſhall ſhe hardly in this Land obtain</l>
+               <l>In birth and worth her equal, without money.</l>
+               <l>For to <hi>cerdogametick</hi> wooers, ſucre</l>
+               <l>Is but as wormwood, where there is no lucre.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:14"/>
+               <head>Of the ſcolding betwixt <hi>Joan</hi> and <hi>Jug.</hi>
+               </head>
+               <l>GEt hence, you <hi>baggage quean,</hi> forth at the dore;</l>
+               <l>For I muſt ſtay here, <hi>ſtrumpet, punk and whore,</hi>
+               </l>
+               <l>(Quoth <hi>Jug</hi> to <hi>Joan</hi>) Stay then <hi>(Jug)</hi> ſee'ng th'ad<g ref="char:EOLhyphen"/>junct</l>
+               <l>Of <hi>ſtrumpet,</hi> to the ſtiles of <hi>whore</hi> &amp; <hi>punk</hi>
+               </l>
+               <l>You to your ſelf reſerve, <hi>(quoth witty Joan)</hi>
+               </l>
+               <l>And forthwith with the <hi>baggage</hi> I'll be gone.</l>
+            </div>
+            <div type="poem">
+               <head>Of the right of Cuckolds and Cuckold-makers.</head>
+               <l>A <hi>Cuckold</hi> for the moſt part ſeems to me</l>
+               <l>To have <hi>plus juris ad rem quam in re:</hi>
+               </l>
+               <l>But <hi>Cuckold-makers</hi> (as I think) may claim</l>
+               <l>To have <hi>plus juris in re quam ad rem.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of one <hi>Doll,</hi> how ſhe practiſed her cunning in the Science of Natural Philoſophy.</head>
+               <l>
+                  <hi>DOll</hi>'s <hi>matter</hi> being inform'd from the <hi>privation</hi>
+               </l>
+               <l>Of a Virginity, ſhe was the <hi>ſubject,</hi>
+               </l>
+               <l>Whereon the myſteries of <hi>generation</hi>
+               </l>
+               <l>Were div'd into; and having for her <hi>object</hi>
+               </l>
+               <l>A body <hi>natural</hi> as <hi>natural,</hi>
+               </l>
+               <l>Her <hi>knowledge</hi> was in th' <hi>Acro'maticks</hi> ſuch,</l>
+               <l>That 'r <hi>nature</hi> hating <hi>vacu'm</hi> moſt of all,</l>
+               <l>She lov'd <hi>de anima</hi> but for the <hi>touch;</hi>
+               </l>
+               <l>And ſpeculating <hi>motion, time,</hi> and <hi>place,</hi>
+               </l>
+               <l>Gave proofs ſufficient of her skilfulneſs.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:14"/>
+               <head>Why it is a proper ſort of ſpeech, to ſay that a man <hi>knows</hi> his wife, when he hath carnally to do with her; according to the anſwer of one <hi>Am<g ref="char:EOLhyphen"/>phibolos,</hi> to another that asked him the que<g ref="char:EOLhyphen"/>ſtion.</head>
+               <l>
+                  <hi>AMphibolos</hi> made anſwer t'one demanding</l>
+               <l>Why <hi>knowledge</hi> may be tak'n in that acce<g ref="char:EOLhyphen"/>ptation?</l>
+               <l>It craves in <hi>man,</hi> a piercing <hi>underſtanding;</hi>
+               </l>
+               <l>In <hi>woman,</hi> a <hi>capacit'</hi> and <hi>conception:</hi>
+               </l>
+               <l>
+                  <hi>Knowledge</hi> be'ng as it ſeemeth in our ſight,</l>
+               <l>But to <hi>conceive,</hi> and <hi>underſtand</hi> aright.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Knox</hi> the Sabbatarian.</head>
+               <l>
+                  <hi>KNox</hi> makes no conſcience of Adultery,</l>
+               <l>Of Rapine, Theft, or Petty Larceny;</l>
+               <l>Yet hang'd his Cat for killing of a Mouſe</l>
+               <l>Upon the <hi>Sabbath</hi>-day within his houſe.</l>
+            </div>
+            <div type="poem">
+               <head>Of Conditional clauſes.</head>
+               <l>THe clauſe conditional of <hi>woman</hi> is</l>
+               <l>That promiſeth, <hi>So far as in her lies:</hi>
+               </l>
+               <l>But of that <hi>man,</hi> that enters into bonds</l>
+               <l>With <hi>woman</hi> is, <hi>So far as in him ſtands.</hi>
+               </l>
+               <l>For his <hi>erection,</hi> with her <hi>ſuccubation,</hi>
+               </l>
+               <l>Keeps uninfring'd their mutual <hi>obligation.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:15"/>
+               <head>The words of one <hi>Mongo,</hi> to a Courtizan of his acquaintance; together with her reply.</head>
+               <lg>
+                  <head>Dem.</head>
+                  <l>THere being a great that's long, and great that's thick;</l>
+                  <l>Which of the two love you beſt in a—?</l>
+               </lg>
+               <lg>
+                  <head>Anſw.</head>
+                  <l>The thick one I prefer: for I deſire</l>
+                  <l>A <hi>Tompkin</hi> rather then a <hi>priming Wire.</hi>
+                  </l>
+                  <l>Yet if my wiſh were to be granted, <hi>Mong,</hi>
+                  </l>
+                  <l>I would chuſe one, that were both thick &amp; long.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Scotus <hi>and</hi> Aquinas.</head>
+               <l>THeſe ſtirring ſpirits of <hi>Aquin</hi> and <hi>Scot</hi>
+               </l>
+               <l>May be compared to the ſun in <hi>March,</hi>
+               </l>
+               <l>Which raiſeth humours, but diſſolves them not;</l>
+               <l>For they for nine a clock at mid-day ſearch,</l>
+               <l>And make to Queſtions ſubtil anſwers, which</l>
+               <l>Provoke far rather, then abate the Itch.</l>
+            </div>
+            <div type="poem">
+               <head>In vindication of a free-ſtrained Epigram.</head>
+               <lg>
+                  <l>ME-thinks I hear the Reader mutter, <hi>(faugh!)</hi>
+                  </l>
+                  <l>This is obſcene and bawdy, and that a</l>
+                  <l>Good <hi>Epigram</hi> cannot be ſcurrilous,</l>
+                  <l>Though it ſhould be quick and ſententious:</l>
+                  <l>Yet let him know, ſee'ng I have fram'd as many</l>
+                  <l>Of ſuch a kinde, as ever yet did any,</l>
+                  <pb facs="tcp:64027:15"/>
+                  <l>That it could not be ſutable to my</l>
+                  <l>Intended method of Variety,</l>
+                  <l>Not to be ſometimes frolick in my lines;</l>
+                  <l>For to ſuch ſtrictneſs who his vein confines,</l>
+                  <l>And gravely tunes his notes at ev'ry minute,</l>
+                  <l>Sings rather like a <hi>Cuckow</hi> then a <hi>Linet:</hi>
+                  </l>
+                  <l>Who likewiſe cannot mix with <hi>Lydian</hi> Lays</l>
+                  <l>
+                     <hi>Cromatick</hi> airs, doth merit no more praiſe</l>
+                  <l>Then who, a Ladies picture having made,</l>
+                  <l>Did quite forget to have it ſhadowed.</l>
+               </lg>
+               <lg>
+                  <l>Therefore unto my ſelf I did propoſe</l>
+                  <l>Of <hi>Epigrams</hi> a <hi>body</hi> to compoſe,</l>
+                  <l>Which ſhould not totally conſiſt of <hi>eyes,</hi>
+                  </l>
+                  <l>Nor <hi>ears</hi> alone, of <hi>heart, brains, tongue,</hi> or <hi>thighs:</hi>
+                  </l>
+                  <l>For that were monſtrous; but of theſe, and all</l>
+                  <l>Parts fit for <hi>Microcoſms</hi> Poetical;</l>
+                  <l>And ſo have ſymmetry, and members common</l>
+                  <l>With the moſt perfect and accompliſh'd <hi>woman,</hi>
+                  </l>
+                  <l>Whoſe beauty will not pleaſe (in my account)</l>
+                  <l>The ſweeteſt lover, if ſhe want a C—.</l>
+                  <l>Nor is there any in the Univerſe,</l>
+                  <l>Will hold that ſhe's compleat without an A—</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Of the amorous Kiſſes which frequently paſs be<g ref="char:EOLhyphen"/>twixt the <hi>male</hi> and <hi>female.</hi>
+               </head>
+               <l>SHe by receiving <hi>kiſſes</hi> from the male,</l>
+               <l>Brings his recommendations to the tail:</l>
+               <l>This is the cauſe, I think, why the word <hi>lips</hi>
+               </l>
+               <l>Hath ſuch a full-mouth'd Rhyme with that of <hi>h</hi>—.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:16"/>
+               <head>An Apologie for laſcivious Writing.</head>
+               <l>WHy ſhould we baſhful be to write in <hi>ſheets,</hi>
+               </l>
+               <l>What Law both ſexes t'act in <hi>ſheets</hi> permits?</l>
+               <l>Unleſs it were a greater ſin t'intruſt</l>
+               <l>
+                  <hi>Paper</hi> with <hi>words,</hi> then <hi>beds</hi> with <hi>deeds</hi> of luſt.</l>
+               <l>Nay, where to <hi>do</hi> a thing deſerves no blame,</l>
+               <l>To <hi>ſpeak</hi> thereof we ought not to think ſhame.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> No, <hi>and</hi> Much.</head>
+               <l>THere is ſcarce any other word that's Spaniſh</l>
+               <l>And Engliſh both, but onely <hi>much,</hi> and <hi>no:</hi>
+               </l>
+               <l>For once <hi>much</hi> hatred and <hi>no</hi> love did baniſh</l>
+               <l>The one from th' other, as their mortal ſo:</l>
+               <l>Yet would <hi>much</hi> truſt, and <hi>no</hi> deceit make theſe</l>
+               <l>Two nations fully one another pleaſe.</l>
+            </div>
+            <div type="poem">
+               <head>The words of one, that was both a great <hi>Drinker,</hi> and a <hi>Wencher,</hi> in excuſe of both.</head>
+               <l>IT is not for the love of drink, that I</l>
+               <l>Carouſe ſo much; but for the company:</l>
+               <l>No more then it is for the Nuptial cranny,</l>
+               <l>That I <hi>grimbetilolletize</hi> my <hi>Jany;</hi>
+               </l>
+               <l>It be'ng her <hi>belly, thighs, eyes, arms, mouth, face,</hi>
+               </l>
+               <l>And other ſuch appurtenances, as</l>
+               <l>Accompany the <hi>integrants,</hi> that do it,</l>
+               <l>Which ſo bewitchingly entice me to it.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:16"/>
+               <head>Of Bettrice the widow of one Frederick</head>
+               <l>
+                  <hi>BEt'</hi> two hours after <hi>Fred'</hi> her husband's death,</l>
+               <l>Be'ng ſu'd in terms of marriage by one <hi>Beth,</hi>
+               </l>
+               <l>Said, <hi>Sir,</hi> I cannot yeeld to your demand;</l>
+               <l>For I 'm already promis'd beforehand.</l>
+            </div>
+            <div type="poem">
+               <head>Contraria juxta ſe poſita, clarius cluceſcunt.</head>
+               <l>AS <hi>Cloris</hi> keeps a cole-black Moriſh girl,</l>
+               <l>That her own beauty may ſeem like a pearl:</l>
+               <l>So <hi>Bast</hi> to 's houſe doth onely fools admit,</l>
+               <l>That he may ſeem to have the greater wit.</l>
+            </div>
+            <div type="poem">
+               <head>Bridegrooms compared to Mathematical Navigaters.</head>
+               <l>
+                  <hi>BRidegrooms,</hi> like skilful <hi>Navigators,</hi> hit</l>
+               <l>The <hi>land,</hi> whereof they never ſaw one bit.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Here-bider</hi> the Dutch-man's adventure, with the beautiful Courtizan <hi>Flora.</hi>
+               </head>
+               <l>
+                  <hi>FLora</hi> is call'd an <hi>Angel,</hi> yet <hi>Here-bider</hi>
+               </l>
+               <l>Found her not ſo, when he with 's <hi>touchſtones</hi> try'd her:</l>
+               <l>For if we take an <hi>Angel</hi> as it is</l>
+               <l>A current Coyn, eſteem'd worth <hi>half a Piece,</hi>
+               </l>
+               <l>She is not worth a <hi>Groat;</hi> ſhe 's courſe allay,</l>
+               <l>And many <hi>grains</hi> too light, baſe ev'ry way.</l>
+               <pb facs="tcp:64027:17"/>
+               <l>I but (ſays one) in beauty ſhe's ſo bright,</l>
+               <l>That ſhe is like thoſe <hi>Angels</hi> call'd of <hi>light:</hi>
+               </l>
+               <l>Yet truly ſhe 's not ſo; for, in th'effects</l>
+               <l>Of <hi>darkneſs,</hi> ſhe moſt pleaſure always takes:</l>
+               <l>Therefore if we muſt needs her <hi>Angelize,</hi>
+               </l>
+               <l>She's like thoſe <hi>Angels</hi> fell from Paractiſe;</l>
+               <l>A ver' incarnate <hi>dev'l,</hi> fiend of perdition:</l>
+               <l>For, whom ſhe rempted hath to her fruition,</l>
+               <l>And drawn within her <hi>ſulph'rous firy pit,</hi>
+               </l>
+               <l>Thoſe ſhe hath <hi>pepper'd</hi> for their entring it:</l>
+               <l>Within the <hi>hell</hi> of whoſe concavitie</l>
+               <l>(<hi>Pandora</hi>'s box-like) all diſeaſes lie.</l>
+               <l>None knows her to b' an <hi>Angel</hi> by her wings;</l>
+               <l>But by the prickning and miſchievous <hi>ſtings,</hi>
+               </l>
+               <l>Which ſhe ſtill keepeth lurking in her <hi>tail,</hi>
+               </l>
+               <l>For the <hi>deſtruction</hi> of each ſilly <hi>male</hi>
+               </l>
+               <l>That comes within her reach, her to embrace.</l>
+               <l>Thus <hi>Flor'</hi> 's a <hi>dev'l,</hi> in a fair <hi>angel</hi>'s dreſs.</l>
+            </div>
+            <div type="poem">
+               <head>Of one <hi>Trigion,</hi> who was in love with a holy ſiſter named <hi>Peine.</hi>
+               </head>
+               <l>WHen <hi>Trigion</hi> found that he did but in vain,</l>
+               <l>For divers months, make love to Miſtris <hi>Pein,</hi>
+               </l>
+               <l>Hearing ſhe was a Congregationer,</l>
+               <l>He to her godly meetings did repair,</l>
+               <l>That, under colour of profound devotion,</l>
+               <l>He might the better proſecute the motion</l>
+               <l>Of getting his deſires; which, in effect,</l>
+               <l>Did come to paſs, as he did it project:</l>
+               <pb facs="tcp:64027:17"/>
+               <l>For when the lights were out, he in the dark</l>
+               <l>Did many nights together on that mark</l>
+               <l>He aimed at, give her the touch of three,</l>
+               <l>Though all this while ſhe knew not it was he,</l>
+               <l>This did embolden him one day to try</l>
+               <l>If (as before) ſhe would his ſuit deny;</l>
+               <l>And, the more ſtrongly to perſwade her to it,</l>
+               <l>Told her where, when, and how oft he did do it.</l>
+               <l>You are deceiv'd, <hi>(quoth ſhe)</hi> I will not <hi>(Trigion)</hi>
+               </l>
+               <l>Do that for luſt, which I did for Religion.</l>
+            </div>
+            <div type="poem">
+               <head>Concerning ſuch, as of late have received the honour, ſome of <hi>Lord,</hi> ſome of <hi>Earl,</hi> by the names of eminent running waters.</head>
+               <l>I Know no reaſon why, in <hi>Scotland,</hi> divers</l>
+               <l>Have built their dignities upon the brittle</l>
+               <l>Unſtay'd foundation of impetuous <hi>rivers,</hi>
+               </l>
+               <l>None fearing, that therein he ſink his <hi>title;</hi>
+               </l>
+               <l>Unleſs it be, they aim by ſuch a wile,</l>
+               <l>T' have without <hi>eloquence</hi> a <hi>fluent</hi> ſtile.</l>
+            </div>
+            <div type="poem">
+               <head>The relation of a ſingle Combat, as it was fought betwixt <hi>Dan,</hi> and his Sweet-heart <hi>Anne.</hi>
+               </head>
+               <l>H' <hi>along'd</hi> about, that ſhe might have the proof</l>
+               <l>Of's <hi>imbrocat;</hi> and gliding ſwift from thence,</l>
+               <l>H' <hi>advanc'd</hi> again, and met her <hi>contrebuff</hi>
+               </l>
+               <l>From a <hi>lowe ward:</hi> to 's <hi>ſtrokes</hi> ſhe makes defence,</l>
+               <pb facs="tcp:64027:18"/>
+               <l>And <hi>paries</hi> with her <hi>ſhield:</hi> now he <hi>re-skips,</hi>
+               </l>
+               <l>And gives in <hi>thruſts:</hi> but leſt he ſhould eſcape her,</l>
+               <l>She <hi>backriſposts</hi> them: h' <hi>enters</hi> in her grips:</l>
+               <l>She <hi>countergrip'd,</hi> and <hi>paſt</hi> belowe his <hi>rapier:</hi>
+               </l>
+               <l>Then ſtrugling in the <hi>cloſe,</hi> though he was ſtronger,</l>
+               <l>His <hi>weapon</hi> failing, he could <hi>fight</hi> no longer.</l>
+            </div>
+            <div type="poem">
+               <head>Upon one <hi>Frank.</hi>
+               </head>
+               <l>WHen ſhe in name alone was <hi>Frank,</hi>
+               </l>
+               <l>She was a maid, and her womb <hi>lank:</hi>
+               </l>
+               <l>But when ſhe was in nature <hi>Frank,</hi>
+               </l>
+               <l>Her belly ſwell'd up like a <hi>bank.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Vir, <hi>in</hi> Virginity.</head>
+               <lg>
+                  <head>Dem.</head>
+                  <l>WHy hath the word <hi>Virginity, Vir</hi> in 't;</l>
+                  <l>See'ng <hi>maids</hi> (as ſuch) ply not t'a <hi>viril</hi> dint?</l>
+               </lg>
+               <lg>
+                  <head>Anſw.</head>
+                  <l>Becauſe the <hi>Moon</hi> within her hath a man,</l>
+                  <l>And yet 's a <hi>virgin,</hi> call'd the chaſte <hi>Diane.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Of the pretty woman <hi>Nell,</hi> moſt exquiſitely pra<g ref="char:EOLhyphen"/>ctiſing the geſticulatory cricks and whirls of an amoreus ball.</head>
+               <lg>
+                  <l>
+                     <hi>NEll</hi>'s feet expreſs in <hi>dancing</hi> the Love-rites</l>
+                  <l>(Her tongue be'ng ſilent) which her heart en<g ref="char:EOLhyphen"/>dites:</l>
+                  <pb facs="tcp:64027:18"/>
+                  <l>And, with a ſmiling face, a twinkling eye,</l>
+                  <l>A nimble body, and laſcivious thigh,</l>
+                  <l>Affords notorious evidence, by this</l>
+                  <l>Her frolick carr'age, what her meaning is.</l>
+                  <l>She <hi>paceth</hi> it ſo ſoftly, that ſhe ſeems</l>
+                  <l>Cloſe by the floor to flie with her ſtretch'd limbs;</l>
+                  <l>Or rather, ſhe along the Carpet ſails,</l>
+                  <l>To ſeize upon the hearts of all the males</l>
+                  <l>That purpoſely went thither to behold her:</l>
+                  <l>The more they 're like to yeeld, ſhe is the bolder</l>
+                  <l>T' encounter them, where they cannot reſiſt;</l>
+                  <l>And therefore in thoſe ſlights doth ſhe inſiſt,</l>
+                  <l>Wherby they're caught the ground ſhe ſlightly touches,</l>
+                  <l>And moſt bewitchingly makes her approches.</l>
+                  <l>Now ſhe <hi>retireth,</hi> till her dainty foot</l>
+                  <l>Make all that ſtands upon it wheel about:</l>
+                  <l>And other while, ſhe putteth on, to ſhew</l>
+                  <l>The gallant progreſs of the <hi>paſſage:</hi> now</l>
+                  <l>She <hi>turns,</hi> and <hi>veers</hi> with pleaſant <hi>gambols;</hi> then</l>
+                  <l>
+                     <hi>Recoyls, ſets forward,</hi> and <hi>comes in</hi> again;</l>
+                  <l>And to the cadence of the Lutes and Viols,</l>
+                  <l>Diſplayeth ſuch incomparable trials</l>
+                  <l>Of her agility, that ne'er was yet</l>
+                  <l>A woman that more bravely <hi>footed</hi> it.</l>
+                  <l>She to the lookers on makes her addreſſes,</l>
+                  <l>As if they were to fall in her embraces;</l>
+                  <l>And the moſt intim'ſecrets in the feats</l>
+                  <l>Of marriage-conſummation, counterfeits.</l>
+                  <l>She trips her <hi>motion</hi> with the greater licenſe,</l>
+                  <l>That ſhe is ſure it heats the concupiſcence</l>
+                  <pb facs="tcp:64027:19"/>
+                  <l>Of the ſpectators: ev'ry Iuſtful jert</l>
+                  <l>She lanceth, is a double-forked dart,</l>
+                  <l>To pierce them to the very ſoul: each caſt</l>
+                  <l>Of her alluring eyes, hath them poſſeſt</l>
+                  <l>With ſo great fervencie, that as ſhe glanceth,</l>
+                  <l>And in delights triumphingly thus pranceth,</l>
+                  <l>Her ſparkling blinks do to their fancie prove</l>
+                  <l>A <hi>Philtre,</hi> which impoyſons them with Love.</l>
+                  <l>A while ſhe ſtops, reflecting on the joys</l>
+                  <l>She's taken with, in theſe inchanting toys:</l>
+                  <l>Then in a trice falls to again, renews</l>
+                  <l>Her itching wriglings, revels her reviews,</l>
+                  <l>Fetcheth her whirls and frisks, and is ſo quick</l>
+                  <l>In the performance of each am'rous trick,</l>
+                  <l>That all who ſee how finely ſhe doth ſtir,</l>
+                  <l>Are o'er the ears enamoured of her.</l>
+               </lg>
+               <lg>
+                  <l>Yet her activity in membral geſture,</l>
+                  <l>Adorned by her gorgeouſneſs of veſture,</l>
+                  <l>And all thoſe Mimick pranks, which ſhe deviſeth,</l>
+                  <l>Theſe amourets, wherein ſhe exerciſeth</l>
+                  <l>Her toe, her heel, her eye, her total frame,</l>
+                  <l>Are but the uſhers of a better game:</l>
+                  <l>All the pathetick fantoms, ardent charms,</l>
+                  <l>She makes ſhew of t' infold within her arms,</l>
+                  <l>Thoſe antick poſtures, frigging minardiſes,</l>
+                  <l>Thoſe tickling quav'rings wherewith ſhe entices</l>
+                  <l>The Damerets of th' <hi>Aphrodiſian</hi> Court,</l>
+                  <l>Are ſhadows of a more ſubſtantial ſport,</l>
+                  <l>Or moving pictures of that ſolid pleaſure,</l>
+                  <l>Which <hi>Nuptial Hymen,</hi> in a larger meaſure,</l>
+                  <pb facs="tcp:64027:19"/>
+                  <l>Allows a matrimoniated couple,</l>
+                  <l>To reap by mutual dalliance without ſcruple.</l>
+               </lg>
+               <lg>
+                  <l>But now that ſhe is wearied with the toyl</l>
+                  <l>Of <hi>balling,</hi> and that all her ſpirits boyl</l>
+                  <l>With ſcorching flames of the blind archers fire,</l>
+                  <l>Which kindleth no leſs vehement deſire</l>
+                  <l>In her Inamorato's, hence ſhe goes,</l>
+                  <l>Having farewell'd the company, at whoſe</l>
+                  <l>Earneſt intreaty ſhe was pleas'd to come</l>
+                  <l>Into a fair and well-adjuſted room;</l>
+                  <l>Where though ſhe in appearance ſeem incloſed,</l>
+                  <l>Onely to have her tyred bones repoſed;</l>
+                  <l>One of her Suitors, who, at all adventures,</l>
+                  <l>Follows upon the track, gets leave to enter:</l>
+                  <l>But what they do, the door being ſhut, and ſhe</l>
+                  <l>Moſt glad there's now none more with her, but he;</l>
+                  <l>Let thoſe be judges, who, in the like paſſion,</l>
+                  <l>Have had the leaſure of ſuch recreation.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Beſs.</head>
+               <l>
+                  <hi>BEſs</hi> is a <hi>whore,</hi> becauſe ſhe 's bent <hi>ad ſtupra;</hi>
+               </l>
+               <l>And a <hi>Pick-pooket</hi> is, <hi>cauſa qua ſupra.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Pet,</hi> and his wife <hi>Kate.</hi>
+               </head>
+               <l>SO prodigal is <hi>Pet,</hi> that ſooner he</l>
+               <l>Will a <hi>good wife,</hi> then a <hi>good husband</hi> be:</l>
+               <l>And <hi>Kate</hi> is ſuch, that, I dare pawn my life,</l>
+               <l>She'll ſooner b'a <hi>good husband,</hi> then <hi>good wife.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:20"/>
+               <head>Concerning the Bride <hi>Meg,</hi> to her Bridegroom.</head>
+               <l>HOw <hi>Meg</hi> ſhall fall to work ſhe needs not ask ye;</l>
+               <l>If other teachers fail, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </div>
+            <div type="poem">
+               <head>Of the wench <hi>Frank,</hi> concerning her skill in <hi>Algebra.</hi>
+               </head>
+               <l>THough by her <hi>Algebra Frank</hi> found <hi>Aequations,</hi>
+               </l>
+               <l>And ways to work in rules of <hi>dark poſitions</hi>
+               </l>
+               <l>Yet, to all <hi>Algorſts</hi> interrogations,</l>
+               <l>She made the <hi>root</hi> the onely <hi>ſuppoſition:</hi>
+               </l>
+               <l>By which art, ſhe her pleaſures did refine,</l>
+               <l>And like to <hi>Coſsick</hi> numbers ſo beſtow them,</l>
+               <l>That they went ne'er alone, without ſome ſigne</l>
+               <l>Of <hi>rooted</hi> quantity annex'd unto them:</l>
+               <l>But ſtill moſt <hi>ſecrets</hi> ſhe diſclos'd, when ſhe</l>
+               <l>Try'd new concluſions by the <hi>Rule of three.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Laſſes, <hi>and</hi> Glaſſes.</head>
+               <l>THough <hi>Glaſſes</hi> and <hi>Laſſes</hi> be never ſo little,</l>
+               <l>Yet <hi>Laſſes</hi> and <hi>Glaſſes</hi> are ever in danger:</l>
+               <l>For <hi>Laſſes</hi> and <hi>Glaſſes</hi> are both of them brittle,</l>
+               <l>And ready to fall in the hands of a ſtranger.</l>
+               <l>Though <hi>falling</hi> be common to <hi>Laſſes</hi> and <hi>Glaſſes,</hi>
+               </l>
+               <l>Yet is there this differ 'twixt <hi>Glaſſes</hi> and <hi>Laſſes,</hi>
+               </l>
+               <l>That <hi>falling</hi> breaks <hi>Glaſſes</hi> to <hi>pieces</hi> aſunder,</l>
+               <l>But <hi>pieces</hi> bring <hi>Laſſes</hi> to falling at under.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:20"/>
+               <head>The Arithmetick of <hi>Beſs</hi> the Courtizan.</head>
+               <l>
+                  <hi>BEſs</hi> fitteth her <hi>acc</hi>—<hi>unt</hi> by <hi>ternaries,</hi>
+               </l>
+               <l>Whereof the <hi>prick</hi> denominates the value:</l>
+               <l>Yet holdeth that her <hi>cyfer</hi> fruitleſs is,</l>
+               <l>Without the right <hi>poſition</hi> of his fellow;</l>
+               <l>A goodly <hi>digit,</hi> which, in its due place,</l>
+               <l>May therewith frame an <hi>article</hi> of peace.</l>
+            </div>
+            <div type="poem">
+               <head>The liberality of one Mr. <hi>Raſhion.</hi>
+               </head>
+               <l>
+                  <hi>TAf</hi> from his Maſter brought a Buck to <hi>Raſhion,</hi>
+               </l>
+               <l>Who ſaid, in thinking his pains worth a fee,</l>
+               <l>Take here a Groat for your <hi>remuneration.</hi>
+               </l>
+               <l>Sir, keep your Groat; the word contenteth me:</l>
+               <l>Which poſſibly, had it been ſhorter, you</l>
+               <l>Had been well pleas'd more wages to beſtow.</l>
+            </div>
+            <div type="poem">
+               <head>Of one <hi>Jane</hi> accuſtomed to <hi>Farding,</hi> whoſe pi<g ref="char:EOLhyphen"/>cture the Limner drew, to repreſent her face, as it was painted.</head>
+               <l>
+                  <hi>JAne</hi>'s <hi>Picture</hi> her reſembleth not, though ſhe</l>
+               <l>Be as like it as any thing can be.</l>
+               <l>What 's natural in her, it doth not hit</l>
+               <l>So well as ſhe hath art conform to it.</l>
+               <l>She ſeems in be'ng ſo artificial,</l>
+               <l>To be th' <hi>extract,</hi> and it th' <hi>original:</hi>
+               </l>
+               <pb facs="tcp:64027:21"/>
+               <l>Her lively <hi>hue</hi> it doth not ſo expreſs,</l>
+               <l>As ſhe ſhews it in <hi>colours</hi> on her face.</l>
+               <l>The <hi>Limner</hi> thought he <hi>pourtray'd</hi> her the better,</l>
+               <l>The more his art did counterfeit her nature:</l>
+               <l>But ſhe endeavour'd, on the other part,</l>
+               <l>To force her nature t'<hi>imitate</hi> his art.</l>
+               <l>Her ſhining <hi>tincture</hi> ſhe moſt ſprightfully</l>
+               <l>
+                  <hi>Illuminated</hi> with a gliſt'ring <hi>dye;</hi>
+               </l>
+               <l>And made the <hi>luſtre</hi> of her countenance,</l>
+               <l>In th' eyes of the beholders, ſo to glance,</l>
+               <l>That one would think in what they <hi>repreſented,</hi>
+               </l>
+               <l>That he did onely <hi>fard,</hi> but that ſhe <hi>painted.</hi>
+               </l>
+               <l>Yet in the <hi>table,</hi> which his <hi>pencil</hi> drew,</l>
+               <l>Her <hi>ſeniblance</hi> was ſ' apparent to our view,</l>
+               <l>That I may boldly ſay, If that there were</l>
+               <l>So much of life in it, as art in her,</l>
+               <l>It would both ſpeak, and walk, and be in love,</l>
+               <l>And her own other ſelf in all things prove.</l>
+               <l>But to determine further of their worth,</l>
+               <l>They do each others likeneſs ſo ſet forth,</l>
+               <l>That, in a word, they 're both but <hi>images,</hi>
+               </l>
+               <l>It, of what ſhe was; ſhe, of what it is.</l>
+            </div>
+            <div type="poem">
+               <head>An Obſervation upon <hi>Caeſar,</hi> and his <hi>Gauliſh</hi> foes.</head>
+               <l>SOme names of <hi>Caeſar</hi>'s foes did end in <hi>x,</hi>
+               </l>
+               <l>Such as <hi>Ciugetorix, Ambiorix.</hi>
+               </l>
+               <l>With <hi>Dumnorix,</hi> and old <hi>Veridovix,</hi>
+               </l>
+               <l>
+                  <hi>Orgeterix,</hi> and <hi>Eporedorix,</hi>
+               </l>
+               <pb facs="tcp:64027:21"/>
+               <l>With <hi>Vircingetorix,</hi> and <hi>Segonax,</hi>
+               </l>
+               <l>Which ſhew, that with great proweſs, and State-knacks;</l>
+               <l>With warlike feats, &amp; Court-like daubing tricks,</l>
+               <l>He was to make himſelf <hi>Anax,</hi> and <hi>Rex.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The words of a certain Bridegroom, whilſt he was about to conſummate the Matrimonial act with his Bride; together with her anſwer.</head>
+               <lg>
+                  <head>Sp.</head>
+                  <l>SO much the more belov'd of me are you,</l>
+                  <l>That to my ſuit you did not yeeld till now.</l>
+               </lg>
+               <lg>
+                  <head>Enc.</head>
+                  <l>I was ſo often cheated in 't before,</l>
+                  <l>That I reſolved to do ſo no more.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>The analogie betwixt</hi> Apples, Codlins; Maids, <hi>and</hi> Women.</head>
+               <l>AS a green <hi>Apple</hi> from a <hi>Codlin,</hi> ſo</l>
+               <l>Do <hi>Maids</hi> and <hi>Women</hi> differ: both of them</l>
+               <l>Muſt needs endure a little boyling, to</l>
+               <l>Immerge the former in the others name.</l>
+               <l>The open pores of th' <hi>apples</hi> skin, admit</l>
+               <l>To th' inward ſubſtance <hi>Vulcan</hi>'s hot impreſſion,</l>
+               <l>And <hi>Cupid</hi>'s fire enflameth <hi>maids,</hi> till it</l>
+               <l>Interiourly enact their transformation.</l>
+               <l>
+                  <hi>Maids</hi> be'ng made <hi>women,</hi> that the <hi>touch</hi> may feaſt;</l>
+               <l>And <hi>Apples, Codlins,</hi> to delight the <hi>taſt.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:22"/>
+               <head>At a peny the ſheet.</head>
+               <l>THe fees of <hi>Nick</hi> the Pimp, and the Clerk <hi>Ned,</hi>
+               </l>
+               <l>Are much alike: for <hi>Nick</hi> but two pence had</l>
+               <l>Laſt morning for the Courtizans bed-making,</l>
+               <l>Which for each <hi>ſheet</hi> was but a peny taking.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>To</hi> Philoinos.</head>
+               <l>IN all the Rhetorick of <hi>Ariſtotle,</hi>
+               </l>
+               <l>The <hi>Proſopopeie</hi> of a Tavern-bottle</l>
+               <l>Is of all <hi>Figures,</hi> that which beſt likes you,</l>
+               <l>When it flows eloquently <hi>Glou, glou, glou.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The words of a certain jovial woman to her jea<g ref="char:EOLhyphen"/>lous husband, in apologizing for Lechery, by the metapher of a <hi>Ring.</hi>
+               </head>
+               <l>THis <hi>Ring of</hi> mine <hi>(Sweet-heart)</hi> hath been upon</l>
+               <l>My <hi>finger</hi> (as you know) and on your own;</l>
+               <l>And yet in ev'ry thing without amiſs,</l>
+               <l>Whate'er it was before, the ſame it is;</l>
+               <l>In meaſure nor in goodneſs doth it change:</l>
+               <l>Ev'n ſo, albeit my other <hi>Ring</hi> ſhould range,</l>
+               <l>Upon incloſing more then one or two</l>
+               <l>Of ſuch-like <hi>fingers</hi> as you uſe it to,</l>
+               <l>You would not finde it worſe in any thing,</l>
+               <l>That's competent to ſuch a kinde of <hi>Ring.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:22"/>
+               <head>That in the whole compoſure of humane frame, amidſt the variety of its moſt alluring parts, the mouth affords the greateſt conveniencie for the application of a kiſs.</head>
+               <l>IF <hi>Kiſſes</hi> did not to the <hi>taſte</hi> belong,</l>
+               <l>The male and female love inſpired youth</l>
+               <l>Would do the remnant of the body wrong,</l>
+               <l>In <hi>Kiſſing</hi> nowhere elſe but on the <hi>mouth.</hi>
+               </l>
+               <l>Yet of all other, the chief reaſon is,</l>
+               <l>That th' onely <hi>mouth</hi> can interchange a <hi>kiſs.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>To</hi> Jupiter.</head>
+               <l>WHen <hi>Io</hi> was a cow for thee, <hi>(Great Jove)</hi>
+               </l>
+               <l>Why didſt thou for the Nymph <hi>Europa</hi>'s love</l>
+               <l>Become a Bull, and not for her whoſe ſhape</l>
+               <l>Had to receive thy <hi>coit</hi> been more apt?</l>
+               <l>Was it becauſe <hi>Paſiphae,</hi> the Queen</l>
+               <l>Of thine own Iſle of <hi>Creet,</hi> was to be in</l>
+               <l>The yoke of love with the bull <hi>Minotore,</hi>
+               </l>
+               <l>Without regard of mankinde; and therefore</l>
+               <l>Thou wouldſt have neither ſex to <hi>Cupid</hi> be</l>
+               <l>Exempted from irregularity?</l>
+               <l>Had <hi>Io</hi> theſe two <hi>Ladies</hi> Cucknelized,</l>
+               <l>And the <hi>turn-bulls</hi> eachother rivalized,</l>
+               <l>They truely had done what they ought all <hi>three:</hi>
+               </l>
+               <l>Mean while <hi>Europa,</hi> and <hi>Paſiphae,</hi>
+               </l>
+               <pb facs="tcp:64027:23"/>
+               <l>Their <hi>womanhood</hi> had without any ſcruple</l>
+               <l>Gaſt off, t'enjoy that <hi>bullified</hi> couple;</l>
+               <l>And rather then their inward touch to loſe,</l>
+               <l>Put on <hi>vaccality,</hi> and turn <hi>Io</hi>'s:</l>
+               <l>For <hi>men</hi> and <hi>women</hi> both their Reaſon quit,</l>
+               <l>When they in <hi>Venus</hi> and her <hi>ſon</hi> delight.</l>
+            </div>
+            <div type="poem">
+               <head>Of Love's <hi>Didimi,</hi> and the premiſes of a Syllogiſm.</head>
+               <l>AS the <hi>premiſſes</hi> are two <hi>Propoſitions,</hi>
+               </l>
+               <l>Whoſe charge is with an argumenting vigor</l>
+               <l>T' infer a <hi>third,</hi> as ſtrong by their poſitions,</l>
+               <l>Within the limits of ſome certain <hi>figure:</hi>
+               </l>
+               <l>So do the <hi>twins</hi> of <hi>Cupid</hi> hold compactly</l>
+               <l>A ſubſtance well elaboured by nature.</l>
+               <l>That through the <hi>third,</hi> they may the more exactly</l>
+               <l>Infuſe the moſt refin'd of all the matter;</l>
+               <l>Yet in the <hi>ſequeles</hi> we ſuch differ finde,</l>
+               <l>That <hi>this,</hi> ſprings from the <hi>body; that,</hi> the <hi>minde.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of the nature of ſuch licentious women, as do datly addict themſelves to the practice of Venery.</head>
+               <l>TO that <hi>part</hi> which is moſt profoundly ractil</l>
+               <l>In Courtizans, we fitly may compare</l>
+               <l>The laſt <hi>ca'ſur'</hi> of a Pentameter;</l>
+               <l>Becauſe it ſtill before it hath a <hi>dactyl:</hi>
+               </l>
+               <l>And therefore Poets did or old rehearſe</l>
+               <l>Their <hi>baudy</hi> ſongs, in th' Elegiack verſe.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:23"/>
+               <head>Of two <hi>Wonchers,</hi> whereof the one was a <hi>Papiſt,</hi> the other a <hi>Proteſtant.</hi>
+               </head>
+               <lg>
+                  <head>The Papiſt.</head>
+                  <l>I Gladly would a Laſs <hi>hinkinkiate,</hi>
+                  </l>
+                  <l>That is a <hi>Proteſtant,</hi> to vindicate</l>
+                  <l>The honour of the <hi>Pope,</hi> who ſtill hath been</l>
+                  <l>By that <hi>profeſſion</hi> call'd <hi>The man of ſin.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>The Proteſtant.</head>
+                  <l>I would t' a <hi>Popiſh</hi> girl an inward foyl</l>
+                  <l>Give willingly, and ſoundly 'r <hi>dinſredonii,</hi>
+                  </l>
+                  <l>Meerly to be revenged of that <hi>fry,</hi>
+                  </l>
+                  <l>Which termeth our Religion <hi>Hereſie.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The ſimplicity of the Girl <hi>Joan,</hi> in loſing her Virginity with one <hi>Beedle.</hi>
+               </head>
+               <l>
+                  <hi>JOan,</hi> being call'd to the wedding of her brother,</l>
+               <l>Was punctually commanded by her mother,</l>
+               <l>That in the company of young men, ſhe</l>
+               <l>Should have a care to keep hea modeſty.</l>
+               <l>The girl was very frolick, loved ſport;</l>
+               <l>But was ſo ſimply young, that in what ſort</l>
+               <l>She ſhould obey her mothers precepts, ſhe</l>
+               <l>Could in no maner deſcant: for of the</l>
+               <l>Word <hi>honeſty</hi> ſhe did not know the ſenſe,</l>
+               <l>This being perceiv'd by <hi>Beedle,</hi> he from thence,</l>
+               <l>As ſoon's her mothers back was turn'd about,</l>
+               <l>After ſome ceremony led her out.</l>
+               <pb facs="tcp:64027:24"/>
+               <l>Unto a private room, where he her told</l>
+               <l>That he had learn'd a ſecret, which he would</l>
+               <l>Impart to her, whereby ſhe might be very</l>
+               <l>Sure of her honeſty, and yet be merry:</l>
+               <l>For <hi>(ſays he)</hi> mark, there is a little rent</l>
+               <l>Betwixt your thighs, which will afford a vent</l>
+               <l>For your poor honeſty to flie out at,</l>
+               <l>Unleſs it neatly be ſow'd up; and that</l>
+               <l>I ſhall perform: for here I have a <hi>needle</hi>
+               </l>
+               <l>Will do the work. For God's ſake, Maſter <hi>Beedle,</hi>
+               </l>
+               <l>Do that, <hi>(quoth ſhe:)</hi> with this, ſhe touching it,</l>
+               <l>Together with the roundlets to it knit,</l>
+               <l>Fell back immediately, to th' end he might</l>
+               <l>Enter in her mid ſeam his point aright:</l>
+               <l>Which he did do with great dexterity,</l>
+               <l>And prick'd her to the life moſt luſtily.</l>
+               <l>This when he once had done, he ask'd how ſhe</l>
+               <l>Was pleas'd with his new-faſhion'd taylorie?</l>
+               <l>Exceeding well, <hi>(quoth ſhe.)</hi> Well then, <hi>(ſays he)</hi>
+               </l>
+               <l>To th' end that you may all this day-long be</l>
+               <l>Aſſured ſtill your honeſty to keep,</l>
+               <l>I will beſtow upon you yet to deep</l>
+               <l>And ſtrong-drawn ſtitch: which was no ſooner ſaid,</l>
+               <l>But he of new <hi>inſuturates</hi> the maid.</l>
+               <l>When he had thus twice rantred pretty <hi>Joan,</hi>
+               </l>
+               <l>He took his cloak up, and would have been gone:</l>
+               <l>Stay, my dear <hi>Beedle,</hi> yet <hi>(quoth ſhe)</hi> and give</l>
+               <l>Me one <hi>ſtitch</hi> more for my rent, as I live,</l>
+               <l>So large is, that my honeſty (I think)</l>
+               <l>Without more help, will flie out at the chink.</l>
+               <pb facs="tcp:64027:24"/>
+               <l>Sweet <hi>Joan, (quoth he)</hi> I can do no more now:</l>
+               <l>For the whole <hi>thred</hi> I had, is ſpent, I vow.</l>
+               <l>What have you done <hi>(quoth ſhe)</hi> with the two <hi>clues</hi>
+               </l>
+               <l>You had juſt now? Have you put all in uſe?</l>
+               <l>If ſo be, I admire how there was need</l>
+               <l>Of ſo great <hi>bottoms</hi> for ſo little <hi>threed?</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Why ſo many maidenheads are loſt.</head>
+               <l>THe chiefeſt reaſon why moſt virgins are</l>
+               <l>So oft ſurpriſed, is becauſe the <hi>Centry</hi>
+               </l>
+               <l>So neer the <hi>court de garde</hi> is in this war</l>
+               <l>Of <hi>Cupid,</hi> that the enemy gets entry</l>
+               <l>Within the <hi>citadelle,</hi> and brings 't in awe,</l>
+               <l>Before the <hi>centry</hi> can ſay <hi>Qui va la?</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Ben,</hi> and Goodie <hi>Glamees.</hi>
+               </head>
+               <l>THe reaſon why <hi>Ben</hi> jummed Goody <hi>Glamees,</hi>
+               </l>
+               <l>Was <hi>optimum eſt condimentum fames.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>How <hi>Geometrically</hi> the Mathematician <hi>Ned</hi> did court his ſweet-heart <hi>Meg.</hi>
+               </head>
+               <l>WHen <hi>Ned</hi> look'd on the <hi>lineaments</hi> divine</l>
+               <l>Of <hi>Meg</hi>'s fair face, he woo'd her in a line:</l>
+               <l>From whence aſcending to her <hi>lips</hi> more gay,</l>
+               <l>He courted her in <hi>ſuperficie:</hi>
+               </l>
+               <l>And thence proceeding fowards (without ho)</l>
+               <l>Her <hi>body</hi> he enjoy'd in <hi>ſolido.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:25"/>
+               <head>The mutual taunts of an Engliſh and Spaniſh Ambaſſadour.</head>
+               <l>TH' Ambaſſadours of <hi>England,</hi> once, and <hi>Spain,</hi>
+               </l>
+               <l>(Great Linguiſts both) to <hi>Paris</hi> when they'd come</l>
+               <l>To treat of State, did purpoſely abſtain</l>
+               <l>From talking each in th' others Idiome.</l>
+               <l>The proud <hi>Caſtilian</hi> (whilſt they both did ſtand</l>
+               <l>On their Puntilio's) ſaid in his <hi>Romance,</hi>
+               </l>
+               <l>Let us ſpeak <hi>French,</hi> ſee'ng we are in the Land</l>
+               <l>Of your great Soveraign, the King of <hi>France.</hi>
+               </l>
+               <l>No, (ſays the <hi>Br tiſh</hi> Lord, in th' <hi>Engliſh</hi> tongue)</l>
+               <l>We in the <hi>Hebrew</hi> our diſcourſe will frame,</l>
+               <l>Leſt otherwiſe your Maſter I ſhould wrong,</l>
+               <l>Who is th' anointed of <hi>Jeruſalem.</hi>
+               </l>
+               <l>Which Jeer being to the purpoſe thus retorted,</l>
+               <l>They each with th'others wit the rafter ſported.</l>
+            </div>
+            <div type="poem">
+               <head>Concerning thoſe who being lov'd, are ſaid to poſſeſs the hearts of ſuch as are enamoured of them.</head>
+               <l>
+                  <hi>LOvers</hi> ſo ſpend now on their Miſtreſſes</l>
+               <l>Their cordial ſpirits, pierc'd with <hi>Cupia</hi>'s darts,</l>
+               <l>That, like to <hi>Paphlagonian</hi> Partridges,</l>
+               <l>Each fair and vert'ous <hi>Lady</hi> hath two hearts:</l>
+               <l>For one cannot poſſeſs ſo great perfection,</l>
+               <l>And be the object of no man's affection.</l>
+            </div>
+            <div type="poem">
+               <head>Why on the Friday we ought to abſtain from fleſh — to <hi>Ned.</hi>
+               </head>
+               <pb facs="tcp:64027:25"/>
+               <lg>
+                  <head>Dem.</head>
+                  <l>WHy ſhould we eat no fleſh on Friday, <hi>Ned?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Anſw.</head>
+                  <l>'Tis <hi>Venus</hi> day, who was mongſt fiſhes bred;</l>
+                  <l>And that on which the man and wife, being ſet</l>
+                  <l>In Paradiſe, would taſte no kinde of meat,</l>
+                  <l>But fruit and herbs: a food therefore moſt fit</l>
+                  <l>For us that day, and <hi>fiſhes</hi> next to it.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The ſeverally inflicted wounds of <hi>Cupid</hi>'s dart; Love being ſomtimes reciprocal, ſomtimes not.</head>
+               <l>
+                  <hi>BEſs</hi> loveth <hi>James,</hi> whoſe humour is ſo Gotick,</l>
+               <l>That for no earthly thing would he poſſeſs her;</l>
+               <l>And hateth <hi>Will,</hi> whoſe fancy's ſo <hi>erotick,</hi>
+               </l>
+               <l>That he muſt die, if he do not embrace her.</l>
+               <l>
+                  <hi>Alce, James</hi> deſpiſeth, though he her reſpect</l>
+               <l>Beyond all other pleaſures, wealth, and honour;</l>
+               <l>And paſſionately doth her <hi>Will</hi> affect,</l>
+               <l>Who ſcorns to do ſo much, as look upon her.</l>
+               <l>Like ſhades, which flie from fol'wing bodies, hatred</l>
+               <l>Being loves reward, &amp; love hates compenſation:</l>
+               <l>Theſe four diſdainful lovers were thus fettred</l>
+               <l>With circled chains of quite contrary paſſion.</l>
+               <l>But <hi>Mark</hi> and <hi>Moll</hi> die each for love of other,</l>
+               <l>And both in others arms revive together.</l>
+            </div>
+            <div type="poem">
+               <head>Of Virginity.</head>
+               <pb facs="tcp:64027:26"/>
+               <l>
+                  <hi>VIr,</hi> in the <hi>Latine,</hi> yeelds of <hi>man</hi> th' expreſſion;</l>
+               <l>
+                  <hi>Gini,</hi> in <hi>Greek,</hi> a <hi>woman</hi> doth imply;</l>
+               <l>
+                  <hi>Tie,</hi> in our <hi>Tongue</hi> importeth <hi>copulation:</hi>
+               </l>
+               <l>Which three words ſpell us out <hi>Virginity.</hi>
+               </l>
+               <l>Hence, that no <hi>maidenheads</hi> are loſt, we gather,</l>
+               <l>If <hi>male</hi> and <hi>female</hi> be not <hi>joyn'd</hi> together.</l>
+            </div>
+            <div type="poem">
+               <head>Of that maſculine love, which tends to luſt.</head>
+               <l>MAn's love is drawn from the circumference</l>
+               <l>Inſcribing th' outward Pentagon of ſenſe,</l>
+               <l>Unto that female inward tactil center,</l>
+               <l>Like a <hi>diameter,</hi> which there doth enter.</l>
+            </div>
+            <div type="poem">
+               <head>To a certain Gentlewoman, concerning <hi>Cupid,</hi> and a new born babe of hers.</head>
+               <l>BEcauſe one lovely boy your eyes did enter,</l>
+               <l>Another iſſu'd at a lower center:</l>
+               <l>The firſt got acceſs at the ſight, and ſuch,</l>
+               <l>As made the laſt finde egreſs from the touch.</l>
+               <l>The babe was blinde, which ſtepped in, and took</l>
+               <l>His paſſage at the ſenſe whereby you look:</l>
+               <l>But there did ſally at the part, whereat</l>
+               <l>No optick vertue is, a ſeeing brat.</l>
+               <l>So interlaced are the faculties</l>
+               <l>Of View and Feeling, in the exerciſe,</l>
+               <pb facs="tcp:64027:26"/>
+               <l>Which ſets abroach an infants generation,</l>
+               <l>Or labour, which gives children procreation;</l>
+               <l>That, by their mixture, you had a full meaſure,</l>
+               <l>Firſt, of the cauſe, then, the effect of pleaſure.</l>
+            </div>
+            <div type="poem">
+               <head>The Bell-man.</head>
+               <l>BRave youths, who with your handſom ſweet-hearts lie,</l>
+               <l>Charm'd with a tactil ſenſuality,</l>
+               <l>Let each, and all of you obſerve your mate,</l>
+               <l>Both when ſhe lougeth, and when ſhe's repleat:</l>
+               <l>For be aſſur'd, that in the greater meaſure</l>
+               <l>You 'il pleaſe your ſelves, the more you mind their pleaſure.</l>
+               <l>'Tis a fair morning, &amp; but one a clock,</l>
+               <l>Give therefore breath unto your <hi>hic in hoc:</hi>
+               </l>
+               <l>For there is nothing ſtands, but once muſt fall;</l>
+               <l>And ſo good morrow t' ye, my maſters all.</l>
+            </div>
+            <div type="poem">
+               <head>Of the widow <hi>Machlis.</hi>
+               </head>
+               <l>
+                  <hi>MAchlis,</hi> in her return from th' obſequies</l>
+               <l>Of her deceaſed mate, finding the ways</l>
+               <l>To be quite broken in the cawſey, which</l>
+               <l>She trod on, utter'd this ambiguous ſpeech,</l>
+               <l>(Ev'n whilſt her hand was dangling careleſly</l>
+               <l>On her <hi>feminian overture</hi>) if I</l>
+               <l>But have the luck to live another year,</l>
+               <l>Many a pretty <hi>ſtore</hi> ſhall be <hi>laid</hi> here:</l>
+               <l>And that in honour of my husband, who</l>
+               <l>
+                  <hi>Paſt</hi> ſev'ral times upon it <hi>to and fro.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:27"/>
+               <head>That it is a very natural thing in a woman, to loſe her maidenhead.</head>
+               <l>SEeing Nature, to ſhun voids in th' Univerſe,</l>
+               <l>Doth mounting floods, &amp; falling air emboſ'm;</l>
+               <l>Why ſhall a woman from that courſe b' averſe,</l>
+               <l>To fill the <hi>vac'um</hi> of her Microcoſm?</l>
+               <l>Vacuity with it confuſion carries;</l>
+               <l>And women ſhould eſchew 't, leſt mankind pe<g ref="char:EOLhyphen"/>riſh.</l>
+            </div>
+            <div type="poem">
+               <head>To a lusty ſtrong man named <hi>Bently,</hi> on the day of his marriage with a young weak ſtrip<g ref="char:EOLhyphen"/>ling Girl.</head>
+               <l>I Would not wiſh you wholly to forbear,</l>
+               <l>Becauſe the Bride is young, from colling her:</l>
+               <l>Yet this I would deſire you, Maſter <hi>Bently,</hi>
+               </l>
+               <l>If ſo the ground be tender, rake it gently.</l>
+            </div>
+            <div type="poem">
+               <head>Of the Lover <hi>Eron,</hi> and his Sweet-heart <hi>Phileta.</hi>
+               </head>
+               <l>
+                  <hi>ERron,</hi> when firſt the blind brat did him move</l>
+               <l>To <hi>Venery,</hi> abandoning all arts</l>
+               <l>For the enjoyment of <hi>Phileta</hi>'s love,</l>
+               <l>Became a Sentry at her lower parts;</l>
+               <l>Waiting as conſtantly upon her <hi>nates,</hi>
+               </l>
+               <l>As ever on <hi>Aeneas</hi> did <hi>Achates.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:27"/>
+               <head>The reaſon why wearing of Gowns is peculiar to Scholars and Women.</head>
+               <l>TO call him <hi>Scholar,</hi> that <hi>knows</hi> much, is common:</l>
+               <l>A <hi>maid,</hi> by <hi>knowing</hi> man, is made a <hi>woman:</hi>
+               </l>
+               <l>
+                  <hi>He</hi> in the <hi>head</hi> with <hi>knowledge</hi> is endowed;</l>
+               <l>
+                  <hi>She</hi> in the <hi>tail</hi> her <hi>knowledge</hi> hath imbued.</l>
+               <l>This is the cauſe why both wear <hi>Gowns,</hi> and why</l>
+               <l>From <hi>head</hi> to <hi>tail</hi> they reach <hi>talariately.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of one <hi>Strigo,</hi> a Farmer in <hi>Aragon,</hi> who for his matchleſs activity in Love-duels, was ſent for by <hi>Alfonſe</hi> the then king of that country.</head>
+               <l>THe Yeoman <hi>Strigo</hi> was in reins ſo ſtrong,</l>
+               <l>That he could foil ten gilts in <hi>Venery,</hi>
+               </l>
+               <l>And pleaſe them all. This made <hi>Alphonſe</hi> to long</l>
+               <l>For his acquaintance: but unhappily,</l>
+               <l>As he was coming towards him, he di'd.</l>
+               <l>The King did notwithſtanding ask his ſon,</l>
+               <l>If, like his father, he was fortifi'd</l>
+               <l>'Gainſt amorous debates, in the back-bone?</l>
+               <l>I am not <hi>(Sir)</hi> ſo like my father, as</l>
+               <l>My mother, <hi>(quoth he:)</hi> but I have a ſiſter</l>
+               <l>That is a vigorous and bouncing laſs,</l>
+               <l>Known to be ſuch, by all that ever kiſt her;</l>
+               <l>Who though ſhe be therein but a beginner,</l>
+               <l>Hath right much of her fathers nature in her.</l>
+            </div>
+            <div type="poem">
+               <head>Of one <hi>Amalia,</hi> a Poeteſs of a very amorous diſpoſition.</head>
+               <pb facs="tcp:64027:28"/>
+               <l>
+                  <hi>AM</hi>'s beſt conceptions are (her vein being ta<g ref="char:EOLhyphen"/>ctil)</l>
+               <l>Infus'd by <hi>Cupid,</hi> rather then <hi>Apollo:</hi>
+               </l>
+               <l>Th' <hi>enthouſiaſm</hi> proceeding from the <hi>dactyl,</hi>
+               </l>
+               <l>Where after one <hi>long</hi> meaſure, <hi>two</hi> ſhort follow:</l>
+               <l>For <hi>ſhe</hi> expreſſeth to the life <hi>Love</hi>'s ſtances,</l>
+               <l>When by this <hi>foot ſhe</hi> ſcans her <hi>couched</hi> fancies.</l>
+            </div>
+            <div type="poem">
+               <head>How hard a thing it is, to judge of the minde by the outward carriage.</head>
+               <l>SIgnes that in nothing differ to the ſenſe,</l>
+               <l>Give of the minde no certain evidence:</l>
+               <l>For many women make the ſelf-ſame face,</l>
+               <l>At the bruiſe of a bliſtred finger, as</l>
+               <l>At the reception of a <hi>Paphian</hi> cane:</l>
+               <l>Yet th' one yeelds <hi>pleaſure;</hi> and the other, <hi>pain.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Dorothie, <hi>the wife of</hi> John-a-Stiles.</head>
+               <l>WHen <hi>Dorothy</hi> in the night-time had found</l>
+               <l>The <hi>Cyprian</hi> Nag of honeſt <hi>John-an-Oke,</hi>
+               </l>
+               <l>Some <hi>damage feſant</hi> in her husbands ground,</l>
+               <l>She ſtraight laid hold on him, ev'n in her ſmock,</l>
+               <l>And put him legally in her <hi>pound ouvert:</hi>
+               </l>
+               <l>For <hi>Dorothy</hi> was <hi>John-a-Stiles</hi> fem covert.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:28"/>
+               <head>Of Womens precellencie.</head>
+               <l>ALl Lovers ſhould their Miſtreſſes, as oft</l>
+               <l>As they can on their knees ſerve with affection,</l>
+               <l>Whilſt theſe ſweet thing lets, looking ſtill aloft,</l>
+               <l>Rejoyce upon their backs at mans ſubjection.</l>
+               <l>Hence the <hi>ſhe</hi> 's Miſtreſs call'd, as I ſuppoſe,</l>
+               <l>And <hi>he</hi> the Servant, who with her doth cloſe.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Tib,</hi> and her ſweet-heart <hi>Vere.</hi>
+               </head>
+               <l>I'Ve loſt my blade, <hi>(quoth Tib)</hi> come ſearch it <hi>Vere,</hi>
+               </l>
+               <l>Some higher, <hi>ho;</hi> ſome lower, <hi>ho;</hi> there, there.</l>
+            </div>
+            <div type="poem">
+               <head>Of the loving carriage of one <hi>Boſens</hi> to his wife <hi>Mary,</hi> after his return from a great Lord.</head>
+               <l>AT each of the four times that <hi>Boſens</hi> had</l>
+               <l>Bebumped <hi>Mary</hi> in her genial bed,</l>
+               <l>He telling her that this bout was for <hi>Dick,</hi>
+               </l>
+               <l>That other in remembrance of kinde <hi>Nick;</hi>
+               </l>
+               <l>This other yet in memory of <hi>Jack,</hi>
+               </l>
+               <l>And finally, this laſt for one <hi>Ned</hi>'s ſake;</l>
+               <l>Which <hi>four</hi> (he ſaid) were all of my <hi>Lords</hi> kinred.</l>
+               <l>By me (<hi>quoth Moll</hi> then) you ſhall not be hindred</l>
+               <l>In this kinde, your reſpects to teſtifie</l>
+               <l>To the remainder of his pedigree.</l>
+               <l>But finding wearineſs to ſeize on <hi>Boſens,</hi>
+               </l>
+               <l>She asked if <hi>my Lord</hi> had no more coſens.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:29"/>
+               <head>Concerning the ſouldier <hi>John Gerthudenberg</hi>'s Art of Printing; and the finding out of Gun<g ref="char:EOLhyphen"/>powder by <hi>Bartholdus Swart,</hi> a <hi>Franciſcan</hi> Fryar.</head>
+               <l>FAte ſo ordain'd, who knew beſt how conjunct</l>
+               <l>
+                  <hi>Arts</hi> muſt needs be with <hi>Arms,</hi> to gain deſert;</l>
+               <l>That <hi>Powder</hi> was th' invention of a <hi>Monk,</hi>
+               </l>
+               <l>And from a <hi>Souldier</hi> came the <hi>Printing</hi> art:</l>
+               <l>Since when, great things, by <hi>arts</hi> in <hi>gowns</hi> pro<g ref="char:EOLhyphen"/>poſed,</l>
+               <l>Have often been by <hi>Mars,</hi> with <hi>guns</hi> diſpoſed.</l>
+            </div>
+            <div type="poem">
+               <head>The expreſsion of one, who did not love to burn for Religion.</head>
+               <l>T' Expoſe my ſelf to death, I have no maw,</l>
+               <l>For this or that opinion of the Law.</l>
+               <l>Thoſe that court Martyrdom, muſt have a motion</l>
+               <l>Of ſecret breathing towards that promotion.</l>
+               <l>They 're fitteſt to be Martyrs, whom God skills</l>
+               <l>With the ſpruce art of doing Miracles.</l>
+               <l>All I can do 's within the bounds of Nature,</l>
+               <l>Which makes me think, that, for ſo high a matter,</l>
+               <l>I have no call; and without a vocation,</l>
+               <l>There 's no election, nor juſtification:</l>
+               <l>Therefore I, in my pathway unto heaven,</l>
+               <l>Had rather <hi>live</hi> with <hi>John,</hi> then <hi>die</hi> with <hi>Steven.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:29"/>
+               <head>Of the Widow <hi>Philandra Quadrivira.</hi>
+               </head>
+               <l>
+                  <hi>PHilandra,</hi> who wept little when ſhe loſt</l>
+               <l>Her firſt <hi>three</hi> loving husbands, cried moſt</l>
+               <l>Atrociouſly at the death of the <hi>fourth,</hi>
+               </l>
+               <l>Who was inferiour to them all in worth.</l>
+               <l>The reaſon thereof being enquir'd, ſhe told,</l>
+               <l>It was, becauſe ſhe could not tell who ſhould</l>
+               <l>Her <hi>husband</hi> after that time be, as ſhee</l>
+               <l>Knew at the burials of the other <hi>three.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>That <hi>Wedlock</hi> is a mixed ſort of life.</head>
+               <l>
+                  <hi>MArri,</hi> in French, importeth to be ſad,</l>
+               <l>And by <hi>mari,</hi> a husband is implyed:</l>
+               <l>
+                  <hi>Merrie,</hi> with us, expreſſeth to be glad,</l>
+               <l>As <hi>Marrie</hi> to b'in Matrimony tyed:</l>
+               <l>Which <hi>four</hi> words ſignifie no leſs, in brief,</l>
+               <l>Then that in <hi>Marriage</hi> is both <hi>joy</hi> and <hi>grief.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of holy <hi>Ananias,</hi> and his ſpiritual ſiſter <hi>Sarah.</hi>
+               </head>
+               <l>WHen brother <hi>Ananias</hi> duſted had</l>
+               <l>His <hi>holy</hi> ſiſter <hi>Sarah</hi> in a bed;</l>
+               <l>What would the <hi>wicked</hi> of the world ſay now,</l>
+               <l>If they <hi>(quoth he)</hi> ſhould ſee what we two do?</l>
+               <l>Brother <hi>(quoth ſhe)</hi> let us not care for what</l>
+               <l>Flows from the mouth of any <hi>reprobat.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:30"/>
+               <head>To the Batchelor <hi>Apicrogamos,</hi> who hoped to have the wife he was to make choice of, endow<g ref="char:EOLhyphen"/>ed (beſides her being favoured of Fortune) with manyer and more excellent perfections, both in body and minde, then Nature readily alloweth.</head>
+               <l>YOu cannot love a <hi>Virgin</hi> that is <hi>proud,</hi>
+               </l>
+               <l>Though ſhe be <hi>rich;</hi> nor <hi>indigent,</hi> though <hi>fair.</hi>
+               </l>
+               <l>And without <hi>beauty,</hi> you 'll have none that's <hi>good:</hi>
+               </l>
+               <l>She muſt be <hi>noble, handſome, wiſe,</hi> and <hi>rare</hi>
+               </l>
+               <l>In all accompliſhments: being ſuch, you'll take her.</l>
+               <l>But for your <hi>wife</hi> to get ſo choice a <hi>maid,</hi>
+               </l>
+               <l>You muſt go to <hi>Prometheus,</hi> and beſpeak her:</l>
+               <l>For there is none of thoſe things ready made:</l>
+               <l>And <hi>Kings</hi> would gain by one of ſuch per<g ref="char:EOLhyphen"/>fection,</l>
+               <l>Though they ſhould quit their <hi>Crowns</hi> for her affection.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On</hi> Maids, <hi>and</hi> Fathers.</head>
+               <l>SOme we call <hi>maids,</hi> tho they lack <hi>maidenheads;</hi>
+               </l>
+               <l>As <hi>milk-maids, chamber-maids,</hi> &amp; <hi>waiting-maids:</hi>
+               </l>
+               <l>And ſome without <hi>paternities,</hi> are ſtil'd</l>
+               <l>
+                  <hi>Fathers,</hi> although they never had a <hi>child.</hi>
+               </l>
+               <l>Thus Uſe, on no relation grounded, gives</l>
+               <l>Things names <hi>related, ſans correlatives.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:30"/>
+               <head>The expreſsion of a young married girl of ſome thirteen yeers of age, and little withal, when ſhe ſaw a tame mouſe, tyed to a ſtring in the pocket of her husband; who though married ſome three weeks before that, had, for fear of hurting his bride, delayed the performance of his Matrimonial duty.</head>
+               <lg>
+                  <head>Sp.</head>
+                  <l>IF of that pretty Mouſes skin I had</l>
+                  <l>A pair of Gloves, <hi>ſweet-heart,</hi> I would be glad.</l>
+               </lg>
+               <lg>
+                  <head>Enc.</head>
+                  <l>It is too <hi>little</hi> for that uſe, <hi>(quoth he.)</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Repl.</head>
+                  <l>
+                     <hi>Little</hi> and <hi>young,</hi> will ſtretch, and wider be.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Of frolick <hi>Ned,</hi> and the old houſwife Gamer <hi>Gow.</hi>
+               </head>
+               <lg>
+                  <head>Speech.</head>
+                  <l>COme let me have a chicken, Gamer <hi>Gow.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Encounter.</head>
+                  <l>Have I no uſe for chicks, but give them you?</l>
+                  <l>With this, <hi>Ned</hi> falls upon her, to him tugs her,</l>
+                  <l>And ſo with kiſſes and embraces hugs her;</l>
+                  <l>That thinking he had been in earn'ſt, <hi>ſhe ſaid,</hi>
+                  </l>
+                  <l>Take chicks, and hens, and all, ſweet <hi>Ned:</hi>
+                  </l>
+                  <l>
+                     <hi>Take chicks, and hens, and all, ſweet</hi> Ned.</l>
+               </lg>
+            </div>
+            <pb facs="tcp:64027:31"/>
+            <div type="poem">
+               <head>The words of a certain <hi>Captain</hi>'s daughter to her fathers <hi>Colonel,</hi> and her own <hi>Depuce<g ref="char:EOLhyphen"/>lator,</hi> when, after ſhe was married, he would have embrac'd her, as formerly.</head>
+               <l>
+                  <hi>SIr,</hi> the parol I muſt not violate,</l>
+               <l>Which I gave to my husband: for though at</l>
+               <l>The ſame gate which let <hi>fornication</hi> in,</l>
+               <l>Might paſs <hi>adult'ry,</hi> and a greater ſin;</l>
+               <l>Yet of my body now the <hi>Gariſon</hi>
+               </l>
+               <l>Being under th' abſolute command of one,</l>
+               <l>Who likely will not that admittance grant,</l>
+               <l>Which I did do, when I was <hi>governant:</hi>
+               </l>
+               <l>You muſt withdraw, leſt if the <hi>Sentry</hi> call</l>
+               <l>(As he muſt needs) upon the <hi>Caporal,</hi>
+               </l>
+               <l>You forthwith be committed as a <hi>Spie,</hi>
+               </l>
+               <l>That would betray the <hi>fort</hi> to th' <hi>enemie.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Why the <hi>Pope</hi> ſhould dwell at <hi>Rome.</hi>
+               </head>
+               <l>THe ſov'rain <hi>Pastor</hi> of the <hi>Chriſtian</hi> flock</l>
+               <l>Should in the City built by <hi>Romulus</hi>
+               </l>
+               <l>Have his abode, where he, on <hi>Peters</hi> rock,</l>
+               <l>May rear the fabrick of his Church: and thus</l>
+               <l>That <hi>Rome</hi> be rul'd b' a <hi>Shepherd,</hi> it is fit,</l>
+               <l>Becauſe he was a <hi>Shepherd</hi> founded it.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:31"/>
+               <head>
+                  <hi>Of</hi> Peniſecto.</head>
+               <l>BY having ſayl'd into the <hi>Delphian</hi> Creek,</l>
+               <l>It coſt him th'amputation of his pr —;</l>
+               <l>Which makes me think it was a ſtormy blaſt,</l>
+               <l>That thus enforc'd him to hew down the <hi>mast.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of a <hi>Taylor,</hi> and his Sweetheart.</head>
+               <l>THe Gentile <hi>Taylor</hi> could not chuſe but pleaſe her</l>
+               <l>In ev'ry faſhion, which ſhe moſt applauded:</l>
+               <l>For with his <hi>yard</hi> he always took her <hi>meaſure,</hi>
+               </l>
+               <l>Then <hi>ſtitch'd</hi> her <hi>ſeam,</hi> and with his <hi>needle ſow</hi>'d it:</l>
+               <l>Yet though he glanc'd a little at the reſt,</l>
+               <l>The chiefeſt <hi>cunning</hi> was belowe the waſt.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Cunnus, <hi>and</hi> Mentula.</head>
+               <l>
+                  <hi>OMnis aptatur cunnus viro ſoli;</hi>
+               </l>
+               <l>And therefore is of the <hi>male</hi>-gener wholly:</l>
+               <l>But <hi>mentulam foemella recipit;</hi>
+               </l>
+               <l>And therefore we do <hi>feminine</hi> make it.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:32"/>
+               <head>Of four young men traveling with a Merchant (whoſe name was <hi>Edward</hi>) towards <hi>Don<g ref="char:EOLhyphen"/>caſter.</hi>
+               </head>
+               <l>FOur youths being riding with the Merchant <hi>Ned,</hi>
+               </l>
+               <l>One of the Gallants ask'd a Country-blade</l>
+               <l>Encountring them, How many miles there were</l>
+               <l>From that place to the Town of <hi>Doncaſter.</hi>
+               </l>
+               <l>
+                  <hi>Ten,</hi> (quoth the Hoyden.) <hi>Ten?</hi> that is not right</l>
+               <l>
+                  <hi>(Quoth Ned)</hi> I'm ſure from hence we have but <hi>eight.</hi>
+               </l>
+               <l>Well <hi>(quoth the Bumpkin)</hi> you 're a Merchant, <hi>Sir,</hi>
+               </l>
+               <l>And therefore I will uſe you kindly here:</l>
+               <l>You ſhall have all for <hi>eight;</hi> but of theſe men</l>
+               <l>That ride with you, to each it ſhall coſt <hi>ten.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Cynon</hi>'s Courtſhip to his Miſtreſs <hi>Anne,</hi> who had ſome skill in <hi>Arithmetick</hi> and <hi>Algebra.</hi>
+               </head>
+               <l>GIve me <hi>one</hi> kiſs,<note place="margin">6561 <hi>qq.</hi> 729 <hi>cube.</hi> 81 <hi>q.</hi> 9 <hi>R.</hi>
+                  </note> kiſs, yea <hi>ſixty</hi> more, and now</l>
+               <l>
+                  <hi>Five hundred</hi> above that (dear <hi>Anne</hi>) beſtow,</l>
+               <l>And yet <hi>ſix hundred</hi> beyond theſe, from the</l>
+               <l>
+                  <hi>Ambroſia</hi> of thy lip, diſtil on me:</l>
+               <pb facs="tcp:64027:32"/>
+               <l>For the whole being in <hi>numeration,</hi>
+               </l>
+               <l>
+                  <hi>Six thouſand</hi> and <hi>five hundred ſixty one,</hi>
+               </l>
+               <l>Its <hi>Zenzizenzick</hi> root I 'll take, and that</l>
+               <l>In ſolid <hi>inches</hi> put in you know what.</l>
+               <l>
+                  <hi>Geometrically</hi> thus by <hi>meaſure</hi> ſhall</l>
+               <l>I pay your <hi>Numbers Arithmetical,</hi>
+               </l>
+               <l>And feaſt your <hi>touch</hi> more ſweetly with my clips,</l>
+               <l>Then my <hi>taſte</hi> was with honey from your lips.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Underſtanders, <hi>and</hi> Underliers.</head>
+               <l>
+                  <hi>MEn</hi> firſt of <hi>maids</hi> are <hi>underſtanders;</hi> then</l>
+               <l>
+                  <hi>Maids underliers</hi> fall to be of <hi>men.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of Miſtreſs</hi> Alce, <hi>and</hi> John Ackwards.</head>
+               <l>A <hi>Lice,</hi> in falling out, did cuff <hi>John Ackwards;</hi>
+               </l>
+               <l>But <hi>John</hi> fell in with <hi>Alce,</hi> and cuff'd her backwards.</l>
+            </div>
+            <div type="poem">
+               <head>On the Merchant <hi>Kapees.</hi>
+               </head>
+               <l>WHilſt <hi>Kapees</hi> kept his ſhop in th' old Exchange,</l>
+               <l>His wife abroad with her ſweet-heart did range;</l>
+               <l>And all at the free coſt of Maſter <hi>Kapees:</hi>
+               </l>
+               <l>
+                  <hi>Sic vos non vobis melliſ'catis apes.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:33"/>
+               <head>Concerning <hi>Nick</hi> and his wife <hi>Capraena.</hi>
+               </head>
+               <l>
+                  <hi>NIck</hi> to his wife <hi>Capraena</hi> gave ſome money,</l>
+               <l>Wherewith to <hi>Dick,</hi> for tickling of her C—</l>
+               <l>She bought a <hi>bisk, Eringos,</hi> and <hi>Anchovas:</hi>
+               </l>
+               <l>
+                  <hi>Sic vos non vobis fertis'ratra boves.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Upon the Merchant <hi>Doſe,</hi> and his wife <hi>Gloſſinde.</hi>
+               </head>
+               <l>THe Merchant <hi>Doſe,</hi> no ſooner would beſtow</l>
+               <l>Upon his wife <hi>Gloſſinde,</hi> one piece, or two;</l>
+               <l>But ſhe would give it ſtraight to 's prentice <hi>Davis:</hi>
+               </l>
+               <l>
+                  <hi>Sic vos non vobis nid'ficatis aves.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Griſel,</hi> and her beloved <hi>Ephebos.</hi>
+               </head>
+               <l>
+                  <hi>GRiſel</hi> maintain'd, upon her husbands means,</l>
+               <l>
+                  <hi>Ephebos,</hi> whom t' inſtruct ſhe took the pains,</l>
+               <l>In feats of love, wherein he was a novice:</l>
+               <l>
+                  <hi>Sic vos non vobis vell'ra fertis oves.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:33"/>
+               <head>Leaſure and Solitarineſs are great impugners of Chaſtity.</head>
+               <l>LAſſes intruſted to their own diſcretion,</l>
+               <l>Roaming longſt ſev'ral rooms, and ſpacious beds,</l>
+               <l>Can hardly ſhun an amorous impreſſion:</l>
+               <l>For empty chambers make laſcivious maids,</l>
+               <l>And ſerve in thoughts, by which they're ſo en<g ref="char:EOLhyphen"/>tic'd,</l>
+               <l>That when a Lover comes, they are ſurpris'd.</l>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>Of</hi> Jack <hi>and</hi> Doll.</head>
+               <l>WHilſt <hi>Jack</hi> was 'twixt <hi>Doll</hi>'s legs, <hi>Sir,</hi> marry me,</l>
+               <l>
+                  <hi>Quoth ſhe,</hi> and you ſhall do 't, although my mo<g ref="char:EOLhyphen"/>ther</l>
+               <l>Would not give way thereto. Come, come, <hi>ſays he,</hi>
+               </l>
+               <l>We muſt do firſt one thing before another.</l>
+               <l>Then did he put her quickly to the <hi>action,</hi>
+               </l>
+               <l>Without the leaſure of one thoughts reflection.</l>
+            </div>
+            <div type="poem">
+               <head>Of the free-ſpoken woman <hi>Briccona.</hi>
+               </head>
+               <l>
+                  <hi>BRiccona</hi> being deſir'd to let us know</l>
+               <l>The place, wherein ſhe firſt did undergo</l>
+               <pb facs="tcp:64027:34"/>
+               <l>The touch of man: and whether it was in</l>
+               <l>The houſe, or field, that ſhe receiv'd <hi>Dondin.</hi>
+               </l>
+               <l>In neither, <hi>(quoth ſhe)</hi> for as Love did mount</l>
+               <l>To ſcale my walls, I took it in my C—.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Pet,</hi> and his Miſtreſs <hi>Kate.</hi>
+               </head>
+               <l>
+                  <hi>PEt</hi>'s preparation was a <hi>complement,</hi>
+               </l>
+               <l>
+                  <hi>She,</hi> being in his account well <hi>qualified:</hi>
+               </l>
+               <l>
+                  <hi>Kate</hi> 's expectation was an <hi>implement,</hi>
+               </l>
+               <l>
+                  <hi>He</hi> being in her account well <hi>quantified.</hi>
+               </l>
+               <l>Thus all the better <hi>nature</hi> had <hi>endow'd her,</hi>
+               </l>
+               <l>
+                  <hi>He</hi> in her <hi>nature</hi> all the more <hi>imbu'd her.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Why the carnal union of man and woman is ex<g ref="char:EOLhyphen"/>preſſed many times by the name of <hi>Venery.</hi>
+               </head>
+               <l>TH' act, which both ſexes hath ſo oft combin'd</l>
+               <l>In Loves delight, is termed <hi>Venery;</hi>
+               </l>
+               <l>Becauſe the male and female were enjoyn'd,</l>
+               <l>On <hi>Venus</hi> day, t'increaſe and multiply:</l>
+               <l>That Planet ſhining; which we now call <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi>
+               </l>
+               <l>When God t' obey this precept did ordain us.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:34"/>
+               <head>
+                  <hi>Of</hi> Kneſtioſa.</head>
+               <l>
+                  <hi>LUſt</hi> is the onely cauſe of all her <hi>love,</hi>
+               </l>
+               <l>And <hi>love</hi> alone unto her <hi>life</hi> gives breath:</l>
+               <l>That ſhe may <hi>live</hi> in <hi>luſt,</hi> ſhe <hi>luſts</hi> to <hi>live;</hi>
+               </l>
+               <l>Without the which, <hi>life</hi> is to her but death.</l>
+               <l>Her ſignes of <hi>life,</hi> meer deeds of <hi>luſt</hi> do prove;</l>
+               <l>Nor beats her <hi>pulſe,</hi> but by the act of <hi>Love.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>The Penance of Licentious writing.</head>
+               <l>IF any wanton lines have iſſu'd from</l>
+               <l>My unaffected Quill, I hold it meet,</l>
+               <l>They ſuffer like <hi>adulterers,</hi> and come</l>
+               <l>Inwrap'd before the Readers in a <hi>ſheet:</hi>
+               </l>
+               <l>That he or ſhe may give the milder ſentence,</l>
+               <l>To ſee them in this <hi>habit</hi> of repentance.</l>
+            </div>
+            <div type="poem">
+               <head>Of the Puritane woman <hi>Ruth.</hi>
+               </head>
+               <l>
+                  <hi>RUth</hi> is ſo taken up with <hi>faith,</hi> that ſhe</l>
+               <l>Hath left no room at all for <hi>Charitie:</hi>
+               </l>
+               <l>Nor cares ſhe for <hi>good works</hi> (her <hi>faith</hi> being ampler)</l>
+               <l>But thoſe, which ſhe doth <hi>work</hi> upon the ſampler.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:35"/>
+               <head>Of the oppoſite effects of <hi>Printing,</hi> and <hi>Gun<g ref="char:EOLhyphen"/>powder,</hi> diſcovered to the knowledge of the world within ſeventy nine yeers of one ano<g ref="char:EOLhyphen"/>ther.</head>
+               <l>
+                  <hi>PRinting</hi> of late hath been found out, to further</l>
+               <l>Learning, wherby <hi>one boy</hi> may work more then</l>
+               <l>
+                  <hi>Ten men</hi> could do before, for our inſtruction:</l>
+               <l>And <hi>Powder</hi> invented was, ſo apt to murther,</l>
+               <l>That <hi>one</hi> therewith can now kill many'r men,</l>
+               <l>Then <hi>twenty</hi> formerly, for our deſtruction:</l>
+               <l>
+                  <hi>That,</hi> being in <hi>knowledge</hi> ſudden; <hi>this,</hi> in <hi>Choler;</hi>
+               </l>
+               <l>
+                  <hi>This,</hi> kills a <hi>Souldier; that,</hi> revives a <hi>Scholar.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>How a certain reſolute and audacious <hi>Wooer</hi> was ſo confident in converſing with his <hi>Mi<g ref="char:EOLunhyphen"/>ſtreſs,</hi> of her gracious acceptance of, and yeel<g ref="char:EOLunhyphen"/>ding to his amorous requeſt, that being leſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eloquent, then judicious, he broke off on a ſud<g ref="char:EOLhyphen"/>den, the thred of thoſe complements, he had not the skill to proſecute; and ſupplied his lack of diſcourſe with a more pathetically expreſ<g ref="char:EOLhyphen"/>ſive action.</head>
+               <l>THe ſprightly courter of a gallant Lady,</l>
+               <l>Stopping the current of his lovely ſpeeches</l>
+               <pb facs="tcp:64027:35"/>
+               <l>Referr'd his mind, both time and place being ready,</l>
+               <l>T' an orator reſiding in his Br—;</l>
+               <l>And ſaid, Of what I've left yet unexpreſt,</l>
+               <l>The bearer, <hi>Madam,</hi> will declare the reſt.</l>
+            </div>
+            <div type="poem">
+               <head>Of one <hi>Gametes.</hi>
+               </head>
+               <l>
+                  <hi>GAm</hi> ſaid t' his wife, that it was not the faſhion</l>
+               <l>Of men of great account and reputation,</l>
+               <l>To do it above <hi>once</hi> a night, or <hi>twice</hi>
+               </l>
+               <l>At moſt: and that t' have carnal dealing <hi>thrice,</hi>
+               </l>
+               <l>Or <hi>oftner,</hi> was the cuſtom but of <hi>Scullions,</hi>
+               </l>
+               <l>
+                  <hi>Hogrubbers, Porters, Colliers,</hi> and <hi>Slabgullions.</hi>
+               </l>
+               <l>But ſore repented he, that h' had not ſaid,</l>
+               <l>It was the faſhion rather of the <hi>Mede,</hi>
+               </l>
+               <l>
+                  <hi>Turk, Perſian, Muſcoviter, Dane, Polonian,</hi>
+               </l>
+               <l>
+                  <hi>Hungarian, Tartar, Swede,</hi> and <hi>Macedonian;</hi>
+               </l>
+               <l>Who were not to be found ſo eaſily</l>
+               <l>As <hi>Colliers,</hi> and the other <hi>ſcondrel fry.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Barnabee,</hi> and his wife <hi>Santarella.</hi>
+               </head>
+               <l>
+                  <hi>BAr</hi> coming late to a promiſcuous meeting,</l>
+               <l>Where the lights out, each brother was a gree<g ref="char:EOLhyphen"/>ting</l>
+               <l>His ſiſter with a holy touch; his lot</l>
+               <l>Was to kiſs his own wife, whom he knew not.</l>
+               <l>Then, falling in to be more cloſely buckel'd,</l>
+               <l>By his own knocking made himſelf a cuckold.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:36"/>
+               <head>To one <hi>Meg,</hi> who was modest at the Table, and with her Sweet hearts in the Chamber, laſci<g ref="char:EOLhyphen"/>vious.</head>
+               <l>ALthough you make two morſels of a fig,</l>
+               <l>Wherby to ſome you ſeem extremely meek,</l>
+               <l>Yet well I know it is your humour, <hi>Meg,</hi>
+               </l>
+               <l>At no more then one bite to ſnatch a p—:</l>
+               <l>As if your <hi>touches</hi> ſtomack could digeſt</l>
+               <l>More ſubſtance, then the <hi>ſtomack</hi> of your <hi>taſt.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of ſuch as being of a diſpoſition kinde enough otherwiſe, will perhaps take exceptions at the freedom of many of my Verſes.</head>
+               <l>SOme women ſcorn to read, or hear a word,</l>
+               <l>Whereof the ſenſe may to the minde afford</l>
+               <l>(Without a <hi>periphraſtical</hi> expreſſion)</l>
+               <l>The plain downright, and literal impreſſion</l>
+               <l>Of any thing they call obſcene and bawdy:</l>
+               <l>As if the <hi>eyes,</hi> and <hi>ears,</hi> of all the body,</l>
+               <l>Were the ſole parts muſt be expoſed to</l>
+               <l>Chaſte objects. Yet, ſeeing Uſe hath made it ſo,</l>
+               <l>Many of my looſe Verſes will fall under</l>
+               <l>The burden of their cenſure; though I wonder</l>
+               <l>By what hypocriſie it is, they can</l>
+               <l>Hate lines for that, which they love beſt in man:</l>
+               <pb facs="tcp:64027:36"/>
+               <l>And therefore do I here conjure them by</l>
+               <l>Their thoughts, as be'ng leſs rigorous, that they</l>
+               <l>
+                  <hi>Geld</hi> not my book: for it may furniſh wit,</l>
+               <l>Will ſerve t' ingender others out of it.</l>
+            </div>
+            <div type="poem">
+               <head>Of <hi>Ralph</hi> the Logician, and his Sweet-heart <hi>Griſel.</hi>
+               </head>
+               <l>
+                  <hi>RAlph</hi> made, by vertue of his Genitories,</l>
+               <l>In ſpight of <hi>Griſel's dialectick</hi> Criticks,</l>
+               <l>An <hi>Iſagoge</hi> to her <hi>Categories,</hi>
+               </l>
+               <l>And <hi>Hermenia</hi> to her <hi>Analyticks:</hi>
+               </l>
+               <l>Keeping the method thus of <hi>Ariſtotle,</hi>
+               </l>
+               <l>To taſte the Nectar of her <hi>Paphian</hi> bottle.</l>
+            </div>
+            <div type="poem">
+               <head>Of the two robbed Merchants, <hi>Dick</hi> and <hi>Ben.</hi>
+               </head>
+               <l>AS <hi>Dick</hi> and <hi>Ben</hi> were trav'ling to <hi>Belfaſt,</hi>
+               </l>
+               <l>They met with robbers, who firſt bound them faſt;</l>
+               <l>And having pick'd their Cloakbags, left them then.</l>
+               <l>O I'm <hi>undone</hi> (quoth <hi>Dick:</hi>) Be pleas'd (quoth <hi>Ben</hi>)</l>
+               <l>T'undo me then; for I would fain b' <hi>unty'd.</hi>
+               </l>
+               <l>Thus of theſe two it may be certifi'd,</l>
+               <l>That each of them was <hi>faſt bound</hi> with ſtrong ropes,</l>
+               <l>And both <hi>undone,</hi> for having loſt their hopes.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:37"/>
+               <head>
+                  <hi>Of</hi> Hanſe <hi>and</hi> Ned.</head>
+               <l>
+                  <hi>HAnſe</hi> with an unſtretch'd hand, and the palm down,</l>
+               <l>Pretending ſtrength, ſaid he might lay a crown,</l>
+               <l>That <hi>Ned</hi> could not, with all the force he had,</l>
+               <l>Fold in his middle and ring-finger. <hi>Ned</hi>
+               </l>
+               <l>(Thinking <hi>Hanſe</hi> ſpoke it out of bravery)</l>
+               <l>Employ'd his pith, and did thoſe fingers ply.</l>
+               <l>Which done, <hi>Hanſe</hi> fore and little one in ſcorn,</l>
+               <l>Did point out <hi>Ned</hi> the double-forked horn.</l>
+            </div>
+            <div type="poem">
+               <head>How a certain <hi>Lover,</hi> and his <hi>Miſtreſs,</hi> played together on the <hi>Virginals.</hi>
+               </head>
+               <l>THey <hi>touch'd</hi> the <hi>keys</hi> with lovely ſtrokes moſt quaintly,</l>
+               <l>And in their motion ſ'uniformly dangled,</l>
+               <l>That <hi>tails</hi> did <hi>up,</hi> whilſt <hi>heads</hi> went <hi>down</hi> con<g ref="char:EOLhyphen"/>joyntly,</l>
+               <l>The <hi>found-boord</hi> echoing, as the <hi>ſtart-up</hi> brangled;</l>
+               <l>Being in their <hi>ſharps</hi> and <hi>breaks,</hi> ſo quick and preſent,</l>
+               <l>That never was a <hi>harmony</hi> more pleaſant.</l>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:64027:37"/>
+               <head>Of the <hi>Amazonian</hi> Queen, who made a pro<g ref="char:EOLhyphen"/>greſs to viſit <hi>Alexander</hi> the Great: and of the Queen of <hi>Sheba.</hi>
+               </head>
+               <l>
+                  <hi>NIcolia</hi> travel'd to ſee <hi>Salomon,</hi>
+               </l>
+               <l>And <hi>Minithea</hi> the <hi>Pollaean</hi> King,</l>
+               <l>With croſs intentions: for the <hi>firſt</hi> went on</l>
+               <l>To taſte of <hi>wit,</hi> the <hi>ſecond</hi> of a thing</l>
+               <l>More <hi>palpable:</hi> yet both their <hi>aims</hi> did finde;</l>
+               <l>
+                  <hi>This,</hi> in the <hi>body;</hi> th' <hi>other,</hi> by the <hi>minde.</hi>
+               </l>
+            </div>
+            <div type="poem">
+               <head>Of the Poet <hi>Poll,</hi> and his Sweet-heart <hi>Saenura,</hi> who likewiſe had ſome skill in Verſifying.</head>
+               <l>
+                  <hi>WHen</hi> Poll <hi>met with the Poeteſs</hi> Saenura,</l>
+               <l>
+                  <hi>He tim'd &amp; rim'd it with a mutual capture,</hi>
+               </l>
+               <l>
+                  <hi>Scanning his</hi> dactyl <hi>ſtill with her</hi> caeſura,</l>
+               <l>
+                  <hi>To proſecute a</hi> Heliconian <hi>rapture:</hi>
+               </l>
+               <l>
+                  <hi>Whence</hi> ſprung <hi>two ſtreams not parallel'd by any</hi>
+               </l>
+               <l>
+                  <hi>That ever</hi> flowed <hi>from the</hi> Hippocrene.</l>
+            </div>
+            <div type="poem">
+               <head>A brisk, handſome, young Semſtreſs, whoſe ſhop was in the <hi>Loken-booths</hi> at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> taking occaſion upon a time, about ſeven a clock at night, in the Winter-ſeaſon to go thorow St. <hi>Giles,</hi> thereto adjacent
+<pb facs="tcp:64027:38"/>ſtumbled by chance (whilst ſhe thought there had not been any living creature in the Church but her ſelf) upon a pillar, where there was ſitting a proper, young, gallant <hi>Cavalier,</hi> (who but three hours before had drop'd a thou<g ref="char:EOLhyphen"/>ſand pounds for his Compoſition) by which unexpected accident, ſhe (on a ſudden) fall<g ref="char:EOLhyphen"/>ing in the amorous embraces of that vigorous Gentleman, whoſe tickleſh blood, by the glimpſe which a glimmering light did afford him of her beauty, ſwelled up his veins ſo full, with the influence of <hi>Love</hi> and <hi>Luſt,</hi> that, like a valiant Champion of <hi>Venus, (maugre</hi> her reſiſtance) proſecuting the aſſault, he in a trice ſtormed her fort, entred, and took poſſeſsion thereof, and therein poſed his ſtand<g ref="char:EOLhyphen"/>ing Centry. She in this ſurpriſal (like thoſe to whom ſometimes bold Intruders at firſt, prove afterwards moſt acceptable Guests) taking ſome pleaſure, concurred with the Conquerour, whoſe ſpirits, joyntly with hers, mounting upon the ſame degrees of mutual delights, furniſhed ſubject, in this adventrous Rapture, for the following <hi>Epigram.</hi>
+               </head>
+               <pb facs="tcp:64027:38"/>
+               <l>A Pretty Laſs did ask, whilſt ſhe was ſhaking</l>
+               <l>a looſe-coat-brangle with an unknown man,</l>
+               <l>If formerly h' had ſeen her: I'm but making</l>
+               <l>my 'quaintance now <hi>(quoth he)</hi> as well 's I can.</l>
+               <l>By which means he ſo largely did imbue her,</l>
+               <l>That whether he her ſaw or no, he <hi>knew</hi> her.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <opener>
+               <salute>Gentlemen Readers,</salute>
+            </opener>
+            <p>IF you love me, and have any fancie to this kinde of Poetizing, let me intreat you to diſcuſs theſe ſubſe<g ref="char:EOLhyphen"/>quent <hi>Errata,</hi> before you peruſe any of the <hi>Epigrams,</hi> left otherwiſe the eſcapes of the <hi>Preſs</hi> be accounted faults of <hi>mine.</hi>
+            </p>
+            <p>For although, as there are ſins of <hi>Commiſſion,</hi> there be likewiſe thoſe of <hi>Omiſſion,</hi> with the ſtain of which latter kinde, I poſſibly may be aſperſed, for not reviſing the <hi>Proofs,</hi> before they were finally locked up in the <hi>Forms;</hi> yet may the urgent preſſures, whereby in the interim I was robbed of all leaſure, ſerve to vin<g ref="char:EOLhyphen"/>dicate me of that Imputation.</p>
+            <pb facs="tcp:64027:39"/>
+            <p>It is here to be obſerved, that the four <hi>Tetraſticks,</hi> centonized with the <hi>Maronian Sic vos non vobis,</hi> are to paſs for one Epigram; and that the last Epigram of this Tractate is ſupernumerary, inſerted rather to fill up the page, then the number of the <hi>120</hi> caſually ex<g ref="char:EOLhyphen"/>cerpted out of the above-ſpecified Centenaries.</p>
+            <p>
+               <label>ERRATA.</label>
+               <hi>In the Preface,</hi> page 7. line 21. for <hi>Ironical,</hi> read <hi>Iconical.</hi> p. 10. l. 10. for <hi>time elapſed,</hi> r. <hi>elapſed time.</hi> p. 12. l. 25. for <hi>the Italians,</hi> r. <hi>that of the Italians.</hi>
+            </p>
+            <p>In l. 2. of p. 2. of Epigr. 1. for <hi>thus,</hi> r. <hi>this.</hi> In l. 3. of Epigr. 9. for <hi>ſubjects,</hi> r. <hi>ſecrets.</hi> Ibid. l. 8. for <hi>magiſtecum,</hi> r. <hi>Magisterum.</hi> In l. 2. of Epigr. 19. for <hi>acceptation,</hi> r. <hi>acception.</hi> In l. 13. of p. 8. of the third ſheet, for <hi>adventures,</hi> r. <hi>adventure.</hi>
+            </p>
+            <p>In the Lemma of Epigr. 10. of the third ſheet, for <hi>whirles,</hi> r. <hi>twirles.</hi> In Epig. 3. of the fourth ſheet, for <hi>aſcending,</hi> r. <hi>deſ<g ref="char:EOLhyphen"/>cending.</hi> In the Lemma of Epig. 7. of the fourth ſheet, for <hi>dart,</hi> r. <hi>darts.</hi> In the Lemma of Epigr. 29. of the fourth ſheet, for <hi>Apicrogamos,</hi> r. <hi>Apeirogamos.</hi> In Epigr. 39. of the fourth ſheet, for <hi>ſix hundred,</hi> r. <hi>ſix thouſand.</hi>
+            </p>
+            <p>The laſt two lines of Epigr. 7. the laſt two of Epigr. 18. and the laſt four of Epigr. 15. of the third ſheet, ſhould have been indented.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64027:39"/>
+            <pb facs="tcp:64027:40" rendition="simple:additions"/>
+            <pb facs="tcp:64027:41"/>
+         </div>
+      </back>
+   </text>
+</TEI>
